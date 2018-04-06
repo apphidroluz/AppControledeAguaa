@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    style="@drawable/my_back"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:focusable="false"
+    android:focusableInTouchMode="false"
+    tools:context="br.com.hidroluz.HidroluzWaterControl.NavigationDrawerFragment" >
+
+    <TextView
+        android:id="@+id/nomeCliente"
+        style="?android:attr/textAppearanceMedium"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/azul_h"
+        android:gravity="center_vertical"
+        android:padding="5dp"
+        android:text="Robson"
+        android:textColor="@color/branco" />
+
+    <TextView
+        android:id="@+id/apelido"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/nomeCliente"
+        android:background="@color/azul_h"
+        android:gravity="center_vertical"
+        android:padding="5dp"
+        android:text="Robson"
+        android:textColor="@color/branco" />
+
+    <TextView
+        android:id="@+id/bloco"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/apelido"
+        android:background="@color/azul_h"
+        android:gravity="center_vertical"
+        android:padding="5dp"
+        android:text="Robson"
+        android:textColor="@color/branco" />
+
+    <TextView
+        android:id="@+id/unidade"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/apelido"
+        android:layout_marginLeft="70dp"
+        android:background="@color/azul_h"
+        android:gravity="center_vertical"
+        android:padding="5dp"
+        android:text="Robson"
+        android:textColor="@color/branco" />
+
+
+
+    <ListView
+        android:id="@+id/navigationItems"
+        style="@drawable/my_back"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@+id/footerView"
+        android:layout_below="@+id/unidade"
+        android:background="@color/branco"
+        android:choiceMode="singleChoice"
+        android:divider="@color/laranja"
+        android:dividerHeight="1dp"
+        android:drawSelectorOnTop="false"
+        android:listSelector="@color/laranja" />
+
+</RelativeLayout>

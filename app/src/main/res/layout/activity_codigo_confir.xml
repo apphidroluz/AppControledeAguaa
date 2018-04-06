@@ -1,0 +1,98 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/branco"
+    android:orientation="vertical"
+    tools:context="br.com.hidroluz.HidroluzWaterControl.Codigo_confir" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/azul_h"
+        android:padding="5sp" >
+
+        <TextView
+            android:id="@+id/textView1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text="Confirme seu Cadastro."
+            android:textColor="@color/branco"
+            android:textSize="16sp"
+            android:textStyle="bold" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="301dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="100dp"
+        android:orientation="vertical" >
+
+        <TextView
+            android:id="@+id/textView2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text="Digite o código recebido."
+            android:textSize="16sp"
+            android:textStyle="bold" />
+
+        <EditText
+            android:id="@+id/edt_codigo_confir"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:inputType="number"
+            android:padding="5sp" >
+        </EditText>
+        
+        
+         <LinearLayout
+            android:layout_width="323dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginTop="20dp"
+            android:orientation="vertical"
+            android:paddingLeft="10pt"
+            android:paddingRight="10pt" >
+
+            <Button
+                android:id="@+id/buscar"
+                style="@style/texto9"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginTop="10dp"
+                android:layout_weight="0.1"
+                android:background="@drawable/layoutbutton"
+                android:onClick="buscar"
+                android:text="@string/lblbtn"
+                android:textColor="@color/branco" />
+
+             <LinearLayout
+                 android:layout_width="match_parent"
+                 android:layout_height="20dp"
+                 android:orientation="vertical" >
+             </LinearLayout>
+
+             <TextView
+                 android:id="@+id/reenviar"
+                 android:layout_width="match_parent"
+                 android:layout_height="wrap_content"
+                 android:clickable="true"
+                 android:autoLink="all"
+                 android:gravity="center_horizontal"
+                 android:onClick="reenviar"
+                 android:linksClickable="true"
+                 android:text="Reenviar Código"
+                 android:textAppearance="?android:attr/textAppearanceMedium"
+                 />
+
+        </LinearLayout>
+
+        
+    </LinearLayout>
+
+</LinearLayout>
+

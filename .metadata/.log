@@ -1,0 +1,172 @@
+!SESSION 2018-04-02 15:33:12.984 -----------------------------------------------
+eclipse.buildId=4.7.1.M20171009-0410
+java.version=1.8.0_121
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=pt_BR
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -data C:\uploads\ -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2018-04-02 15:33:25.267
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\robso'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2018-04-02 15:39:26.551 -----------------------------------------------
+eclipse.buildId=4.7.1.M20171009-0410
+java.version=1.8.0_121
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=pt_BR
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -data C:\uploads\ -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2018-04-02 15:39:38.699
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\robso'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.jst.j2ee 4 0 2018-04-02 15:40:21.197
+!MESSAGE Plugin org.eclipse.jst.jee, extension org.eclipse.jst.j2ee.J2EEModelProvider
+Version 8.0 of project facet jst.ear does not exist.
+
+!ENTRY org.eclipse.jst.j2ee 4 0 2018-04-02 15:40:21.269
+!MESSAGE Version 8.0 of project facet jst.ear does not exist.
+!STACK 0
+java.lang.IllegalArgumentException: Version 8.0 of project facet jst.ear does not exist.
+	at org.eclipse.wst.common.project.facet.core.util.internal.Versionable.getVersion(Versionable.java:80)
+	at org.eclipse.wst.common.project.facet.core.internal.ProjectFacet.getVersion(ProjectFacet.java:1)
+	at org.eclipse.jst.j2ee.model.J2EEModelProviderRegistry.readElement(J2EEModelProviderRegistry.java:85)
+	at org.eclipse.wst.common.core.util.RegistryReader.internalReadElement(RegistryReader.java:81)
+	at org.eclipse.wst.common.core.util.RegistryReader.readRegistry(RegistryReader.java:122)
+	at org.eclipse.jst.j2ee.model.J2EEModelProviderRegistry.getInstance(J2EEModelProviderRegistry.java:43)
+	at org.eclipse.jst.j2ee.model.ModelProviderManager.initProviders(ModelProviderManager.java:262)
+	at org.eclipse.jst.j2ee.model.ModelProviderManager.getProviders(ModelProviderManager.java:338)
+	at org.eclipse.jst.j2ee.model.ModelProviderManager.getProvider(ModelProviderManager.java:223)
+	at org.eclipse.jst.j2ee.model.ModelProviderManager.hasModelProvider(ModelProviderManager.java:292)
+	at org.eclipse.jst.jsf.common.internal.componentcore.AbstractCompCoreQueryFactory$DefaultCompCoreQueryFactory.createJEEModelProviderQuery(AbstractCompCoreQueryFactory.java:38)
+	at org.eclipse.jst.jsf.facelet.core.internal.registry.taglib.FaceletTagIndex$DefaultProjectTaglibDescriptorFactory.createContextParamSpecific(FaceletTagIndex.java:212)
+	at org.eclipse.jst.jsf.facelet.core.internal.registry.taglib.FaceletTagIndex$DefaultProjectTaglibDescriptorFactory.create(FaceletTagIndex.java:177)
+	at org.eclipse.jst.jsf.facelet.core.internal.registry.taglib.FaceletTagIndex.createNewInstance(FaceletTagIndex.java:91)
+	at org.eclipse.jst.jsf.facelet.core.internal.registry.taglib.FaceletTagIndex.createNewInstance(FaceletTagIndex.java:1)
+	at org.eclipse.jst.jsf.common.internal.resource.ResourceSingletonObjectManager.getInstance(ResourceSingletonObjectManager.java:90)
+	at org.eclipse.jst.jsf.facelet.core.internal.registry.FaceletTagRegistry.initialize(FaceletTagRegistry.java:170)
+	at org.eclipse.jst.jsf.facelet.core.internal.registry.FaceletTagRegistry.getAllTagLibraries(FaceletTagRegistry.java:129)
+	at org.eclipse.jst.jsf.facelet.core.internal.registry.FaceletTagRegistry.getTagLibrary(FaceletTagRegistry.java:230)
+	at org.eclipse.jst.jsf.facelet.core.internal.metadata.FaceletNamespaceMetaDataLocator.locateMetaDataModelProviders(FaceletNamespaceMetaDataLocator.java:53)
+	at org.eclipse.jst.jsf.common.metadata.internal.DomainLoadingStrategy.locateMetaDataSourceInstances(DomainLoadingStrategy.java:143)
+	at org.eclipse.jst.jsf.common.metadata.internal.DomainLoadingStrategy.load(DomainLoadingStrategy.java:55)
+	at org.eclipse.jst.jsf.common.metadata.internal.MetaDataModel.load(MetaDataModel.java:93)
+	at org.eclipse.jst.jsf.common.metadata.internal.MetaDataModelManager.loadMetadata(MetaDataModelManager.java:150)
+	at org.eclipse.jst.jsf.common.metadata.internal.MetaDataModelManager.getModel(MetaDataModelManager.java:93)
+	at org.eclipse.jst.jsf.common.metadata.query.internal.MetaDataQueryHelper.getMDModel(MetaDataQueryHelper.java:124)
+	at org.eclipse.jst.jsf.common.metadata.query.internal.MetaDataQueryHelper.getModel(MetaDataQueryHelper.java:59)
+	at org.eclipse.jst.jsf.common.metadata.query.internal.MetaDataQueryHelper.getEntities(MetaDataQueryHelper.java:69)
+	at org.eclipse.jst.jsf.common.metadata.query.internal.MetaDataQueryHelper.getEntity(MetaDataQueryHelper.java:64)
+	at org.eclipse.jst.jsf.metadataprocessors.MetaDataEnabledProcessingFactory.getAttributeValueRuntimeTypeFeatureProcessors(MetaDataEnabledProcessingFactory.java:102)
+	at org.eclipse.jst.jsf.metadataprocessors.MetaDataEnabledProcessingFactory.getAttributeValueRuntimeTypeFeatureProcessors(MetaDataEnabledProcessingFactory.java:176)
+	at org.eclipse.jst.jsf.validation.internal.strategy.AttributeValidatingStrategy.validateNonELAttributeValue(AttributeValidatingStrategy.java:695)
+	at org.eclipse.jst.jsf.validation.internal.strategy.AttributeValidatingStrategy.access$1(AttributeValidatingStrategy.java:672)
+	at org.eclipse.jst.jsf.validation.internal.strategy.AttributeValidatingStrategy$1.run(AttributeValidatingStrategy.java:186)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.jst.jsf.validation.internal.strategy.AttributeValidatingStrategy.validateAttributeValue(AttributeValidatingStrategy.java:168)
+	at org.eclipse.jst.jsf.validation.internal.strategy.AttributeValidatingStrategy.validate(AttributeValidatingStrategy.java:144)
+	at org.eclipse.jst.jsf.validation.internal.XMLViewDefnValidator.validateTag(XMLViewDefnValidator.java:99)
+	at org.eclipse.jst.jsf.validation.internal.XMLViewDefnValidator.validateRegions(XMLViewDefnValidator.java:177)
+	at org.eclipse.jst.jsf.validation.internal.XMLViewDefnValidator.validateView(XMLViewDefnValidator.java:134)
+	at org.eclipse.jst.jsf.ui.internal.validation.JSFValidator.validateFile(JSFValidator.java:173)
+	at org.eclipse.jst.jsp.core.internal.validation.JSPValidator.validate(JSPValidator.java:249)
+	at org.eclipse.wst.validation.Validator$V2.validate(Validator.java:1178)
+	at org.eclipse.wst.validation.internal.ValManager.validate(ValManager.java:704)
+	at org.eclipse.wst.validation.internal.ValManager$1.visit(ValManager.java:665)
+	at org.eclipse.wst.validation.internal.ValManager.accept(ValManager.java:810)
+	at org.eclipse.wst.validation.internal.ValManager.validate(ValManager.java:669)
+	at org.eclipse.wst.validation.internal.ValBuilderJob$Visitor.visit(ValBuilderJob.java:299)
+	at org.eclipse.core.internal.resources.Resource$2.visit(Resource.java:120)
+	at org.eclipse.core.internal.resources.Resource$1.visitElement(Resource.java:84)
+	at org.eclipse.core.internal.watson.ElementTreeIterator.doIteration(ElementTreeIterator.java:82)
+	at org.eclipse.core.internal.watson.ElementTreeIterator.doIteration(ElementTreeIterator.java:87)
+	at org.eclipse.core.internal.watson.ElementTreeIterator.doIteration(ElementTreeIterator.java:87)
+	at org.eclipse.core.internal.watson.ElementTreeIterator.iterate(ElementTreeIterator.java:129)
+	at org.eclipse.core.internal.resources.Resource.accept(Resource.java:94)
+	at org.eclipse.core.internal.resources.Resource.accept(Resource.java:52)
+	at org.eclipse.core.internal.resources.Resource.accept(Resource.java:117)
+	at org.eclipse.core.internal.resources.Resource.accept(Resource.java:105)
+	at org.eclipse.wst.validation.internal.ValBuilderJob.fullBuild(ValBuilderJob.java:219)
+	at org.eclipse.wst.validation.internal.ValBuilderJob.run(ValBuilderJob.java:178)
+	at org.eclipse.wst.validation.internal.ValBuilderJob.runInWorkspace(ValBuilderJob.java:126)
+	at org.eclipse.core.internal.resources.InternalWorkspaceJob.run(InternalWorkspaceJob.java:39)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:56)
+
+!ENTRY org.eclipse.jst.j2ee 4 0 2018-04-02 15:40:21.275
+!MESSAGE Plugin org.eclipse.jst.jee, extension org.eclipse.jst.j2ee.J2EEModelProvider
+Version 8.0 of project facet jst.appclient does not exist.
+
+!ENTRY org.eclipse.jst.j2ee 4 0 2018-04-02 15:40:21.276
+!MESSAGE Version 8.0 of project facet jst.appclient does not exist.
+!STACK 0
+java.lang.IllegalArgumentException: Version 8.0 of project facet jst.appclient does not exist.
+	at org.eclipse.wst.common.project.facet.core.util.internal.Versionable.getVersion(Versionable.java:80)
+	at org.eclipse.wst.common.project.facet.core.internal.ProjectFacet.getVersion(ProjectFacet.java:1)
+	at org.eclipse.jst.j2ee.model.J2EEModelProviderRegistry.readElement(J2EEModelProviderRegistry.java:85)
+	at org.eclipse.wst.common.core.util.RegistryReader.internalReadElement(RegistryReader.java:81)
+	at org.eclipse.wst.common.core.util.RegistryReader.readRegistry(RegistryReader.java:122)
+	at org.eclipse.jst.j2ee.model.J2EEModelProviderRegistry.getInstance(J2EEModelProviderRegistry.java:43)
+	at org.eclipse.jst.j2ee.model.ModelProviderManager.initProviders(ModelProviderManager.java:262)
+	at org.eclipse.jst.j2ee.model.ModelProviderManager.getProviders(ModelProviderManager.java:338)
+	at org.eclipse.jst.j2ee.model.ModelProviderManager.getProvider(ModelProviderManager.java:223)
+	at org.eclipse.jst.j2ee.model.ModelProviderManager.hasModelProvider(ModelProviderManager.java:292)
+	at org.eclipse.jst.jsf.common.internal.componentcore.AbstractCompCoreQueryFactory$DefaultCompCoreQueryFactory.createJEEModelProviderQuery(AbstractCompCoreQueryFactory.java:38)
+	at org.eclipse.jst.jsf.facelet.core.internal.registry.taglib.FaceletTagIndex$DefaultProjectTaglibDescriptorFactory.createContextParamSpecific(FaceletTagIndex.java:212)
+	at org.eclipse.jst.jsf.facelet.core.internal.registry.taglib.FaceletTagIndex$DefaultProjectTaglibDescriptorFactory.create(FaceletTagIndex.java:177)
+	at org.eclipse.jst.jsf.facelet.core.internal.registry.taglib.FaceletTagIndex.createNewInstance(FaceletTagIndex.java:91)
+	at org.eclipse.jst.jsf.facelet.core.internal.registry.taglib.FaceletTagIndex.createNewInstance(FaceletTagIndex.java:1)
+	at org.eclipse.jst.jsf.common.internal.resource.ResourceSingletonObjectManager.getInstance(ResourceSingletonObjectManager.java:90)
+	at org.eclipse.jst.jsf.facelet.core.internal.registry.FaceletTagRegistry.initialize(FaceletTagRegistry.java:170)
+	at org.eclipse.jst.jsf.facelet.core.internal.registry.FaceletTagRegistry.getAllTagLibraries(FaceletTagRegistry.java:129)
+	at org.eclipse.jst.jsf.facelet.core.internal.registry.FaceletTagRegistry.getTagLibrary(FaceletTagRegistry.java:230)
+	at org.eclipse.jst.jsf.facelet.core.internal.metadata.FaceletNamespaceMetaDataLocator.locateMetaDataModelProviders(FaceletNamespaceMetaDataLocator.java:53)
+	at org.eclipse.jst.jsf.common.metadata.internal.DomainLoadingStrategy.locateMetaDataSourceInstances(DomainLoadingStrategy.java:143)
+	at org.eclipse.jst.jsf.common.metadata.internal.DomainLoadingStrategy.load(DomainLoadingStrategy.java:55)
+	at org.eclipse.jst.jsf.common.metadata.internal.MetaDataModel.load(MetaDataModel.java:93)
+	at org.eclipse.jst.jsf.common.metadata.internal.MetaDataModelManager.loadMetadata(MetaDataModelManager.java:150)
+	at org.eclipse.jst.jsf.common.metadata.internal.MetaDataModelManager.getModel(MetaDataModelManager.java:93)
+	at org.eclipse.jst.jsf.common.metadata.query.internal.MetaDataQueryHelper.getMDModel(MetaDataQueryHelper.java:124)
+	at org.eclipse.jst.jsf.common.metadata.query.internal.MetaDataQueryHelper.getModel(MetaDataQueryHelper.java:59)
+	at org.eclipse.jst.jsf.common.metadata.query.internal.MetaDataQueryHelper.getEntities(MetaDataQueryHelper.java:69)
+	at org.eclipse.jst.jsf.common.metadata.query.internal.MetaDataQueryHelper.getEntity(MetaDataQueryHelper.java:64)
+	at org.eclipse.jst.jsf.metadataprocessors.MetaDataEnabledProcessingFactory.getAttributeValueRuntimeTypeFeatureProcessors(MetaDataEnabledProcessingFactory.java:102)
+	at org.eclipse.jst.jsf.metadataprocessors.MetaDataEnabledProcessingFactory.getAttributeValueRuntimeTypeFeatureProcessors(MetaDataEnabledProcessingFactory.java:176)
+	at org.eclipse.jst.jsf.validation.internal.strategy.AttributeValidatingStrategy.validateNonELAttributeValue(AttributeValidatingStrategy.java:695)
+	at org.eclipse.jst.jsf.validation.internal.strategy.AttributeValidatingStrategy.access$1(AttributeValidatingStrategy.java:672)
+	at org.eclipse.jst.jsf.validation.internal.strategy.AttributeValidatingStrategy$1.run(AttributeValidatingStrategy.java:186)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.jst.jsf.validation.internal.strategy.AttributeValidatingStrategy.validateAttributeValue(AttributeValidatingStrategy.java:168)
+	at org.eclipse.jst.jsf.validation.internal.strategy.AttributeValidatingStrategy.validate(AttributeValidatingStrategy.java:144)
+	at org.eclipse.jst.jsf.validation.internal.XMLViewDefnValidator.validateTag(XMLViewDefnValidator.java:99)
+	at org.eclipse.jst.jsf.validation.internal.XMLViewDefnValidator.validateRegions(XMLViewDefnValidator.java:177)
+	at org.eclipse.jst.jsf.validation.internal.XMLViewDefnValidator.validateView(XMLViewDefnValidator.java:134)
+	at org.eclipse.jst.jsf.ui.internal.validation.JSFValidator.validateFile(JSFValidator.java:173)
+	at org.eclipse.jst.jsp.core.internal.validation.JSPValidator.validate(JSPValidator.java:249)
+	at org.eclipse.wst.validation.Validator$V2.validate(Validator.java:1178)
+	at org.eclipse.wst.validation.internal.ValManager.validate(ValManager.java:704)
+	at org.eclipse.wst.validation.internal.ValManager$1.visit(ValManager.java:665)
+	at org.eclipse.wst.validation.internal.ValManager.accept(ValManager.java:810)
+	at org.eclipse.wst.validation.internal.ValManager.validate(ValManager.java:669)
+	at org.eclipse.wst.validation.internal.ValBuilderJob$Visitor.visit(ValBuilderJob.java:299)
+	at org.eclipse.core.internal.resources.Resource$2.visit(Resource.java:120)
+	at org.eclipse.core.internal.resources.Resource$1.visitElement(Resource.java:84)
+	at org.eclipse.core.internal.watson.ElementTreeIterator.doIteration(ElementTreeIterator.java:82)
+	at org.eclipse.core.internal.watson.ElementTreeIterator.doIteration(ElementTreeIterator.java:87)
+	at org.eclipse.core.internal.watson.ElementTreeIterator.doIteration(ElementTreeIterator.java:87)
+	at org.eclipse.core.internal.watson.ElementTreeIterator.iterate(ElementTreeIterator.java:129)
+	at org.eclipse.core.internal.resources.Resource.accept(Resource.java:94)
+	at org.eclipse.core.internal.resources.Resource.accept(Resource.java:52)
+	at org.eclipse.core.internal.resources.Resource.accept(Resource.java:117)
+	at org.eclipse.core.internal.resources.Resource.accept(Resource.java:105)
+	at org.eclipse.wst.validation.internal.ValBuilderJob.fullBuild(ValBuilderJob.java:219)
+	at org.eclipse.wst.validation.internal.ValBuilderJob.run(ValBuilderJob.java:178)
+	at org.eclipse.wst.validation.internal.ValBuilderJob.runInWorkspace(ValBuilderJob.java:126)
+	at org.eclipse.core.internal.resources.InternalWorkspaceJob.run(InternalWorkspaceJob.java:39)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:56)

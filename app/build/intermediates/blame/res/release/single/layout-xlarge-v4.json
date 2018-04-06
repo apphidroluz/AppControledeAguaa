@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "C:\\uploads\\app\\build\\intermediates\\res\\merged\\release\\layout-xlarge-v4\\layout_consumo.xml",
+        "source": "C:\\uploads\\app\\src\\main\\res\\layout-xlarge\\layout_consumo.xml"
+    },
+    {
+        "merged": "C:\\uploads\\app\\build\\intermediates\\res\\merged\\release\\layout-xlarge-v4\\item_lista_leitura.xml",
+        "source": "C:\\uploads\\app\\src\\main\\res\\layout-xlarge\\item_lista_leitura.xml"
+    },
+    {
+        "merged": "C:\\uploads\\app\\build\\intermediates\\res\\merged\\release\\layout-xlarge-v4\\dados_leitura_completo.xml",
+        "source": "C:\\uploads\\app\\src\\main\\res\\layout-xlarge\\dados_leitura_completo.xml"
+    },
+    {
+        "merged": "C:\\uploads\\app\\build\\intermediates\\res\\merged\\release\\layout-xlarge-v4\\item_lista_consumo.xml",
+        "source": "C:\\uploads\\app\\src\\main\\res\\layout-xlarge\\item_lista_consumo.xml"
+    },
+    {
+        "merged": "C:\\uploads\\app\\build\\intermediates\\res\\merged\\release\\layout-xlarge-v4\\activity_listade_leituras.xml",
+        "source": "C:\\uploads\\app\\src\\main\\res\\layout-xlarge\\activity_listade_leituras.xml"
+    },
+    {
+        "merged": "C:\\uploads\\app\\build\\intermediates\\res\\merged\\release\\layout-xlarge-v4\\spinner_item.xml",
+        "source": "C:\\uploads\\app\\src\\main\\res\\layout-xlarge\\spinner_item.xml"
+    },
+    {
+        "merged": "C:\\uploads\\app\\build\\intermediates\\res\\merged\\release\\layout-xlarge-v4\\layout_valores.xml",
+        "source": "C:\\uploads\\app\\src\\main\\res\\layout-xlarge\\layout_valores.xml"
+    },
+    {
+        "merged": "C:\\uploads\\app\\build\\intermediates\\res\\merged\\release\\layout-xlarge-v4\\activity_noticias.xml",
+        "source": "C:\\uploads\\app\\src\\main\\res\\layout-xlarge\\activity_noticias.xml"
+    }
+]

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:padding="5sp" >
+
+        <TextView
+            android:id="@+id/consumoTotal"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="5"
+            android:gravity="center"
+            android:text="10"
+            android:textSize="25sp" />
+
+        <TextView
+            android:id="@+id/Dt_es"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="5"
+            android:gravity="center"
+            android:text="88"
+            android:textSize="15sp" />
+
+        <TextView
+            android:id="@+id/Dias"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="5"
+            android:gravity="center"
+            android:text="99"
+            android:textSize="15sp" />
+
+        <TextView
+            android:id="@+id/Media"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="5"
+            android:gravity="center"
+            android:text="88"
+            android:textSize="15sp" />
+
+        <ImageView
+            android:id="@+id/imageView1"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="5"
+            android:adjustViewBounds="true"
+            android:gravity="center"
+            android:scaleType="centerInside"
+            android:src="@drawable/circle" />
+
+        <TextView
+            android:id="@+id/Dt_anterior"
+            android:layout_width="1dp"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:textSize="1sp"
+            android:visibility="invisible" />
+
+        <TextView
+            android:id="@+id/mesano2"
+            android:layout_width="1dp"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:textSize="1sp"
+            android:visibility="invisible" />
+
+        <TextView
+            android:id="@+id/fluxo_continuo"
+            android:layout_width="1dp"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:textSize="1sp"
+            android:visibility="gone" />
+
+        <ImageView
+            android:id="@+id/imageView2"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="5"
+            android:adjustViewBounds="true"
+            android:gravity="center"
+            android:scaleType="centerInside"
+            android:src="@drawable/alerta2" />
+    </LinearLayout>
+
+</LinearLayout>

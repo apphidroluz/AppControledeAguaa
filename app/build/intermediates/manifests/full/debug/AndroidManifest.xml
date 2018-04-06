@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="br.com.hidroluz.HidroluzWaterControl"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="15"
+        android:targetSdkVersion="25" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+
+    <meta-data
+        android:name="android.support.VERSION"
+        android:value="25.3.1" />
+
+    <application
+        android:allowBackup="true"
+        android:debuggable="true"
+        android:hardwareAccelerated="false"
+        android:icon="@drawable/ic_hidro"
+        android:label="@string/app_name"
+        android:largeHeap="true"
+        android:persistent="false"
+        android:theme="@style/Theme.Temahidroluz" >
+        <activity
+            android:name="br.com.hidroluz.HidroluzWaterControl.MainActivity"
+            android:configChanges="orientation|keyboardHidden"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="br.com.hidroluz.HidroluzWaterControl.Principal"
+            android:configChanges="orientation|keyboardHidden"
+            android:label="@string/app_name"
+            android:screenOrientation="sensorPortrait" >
+        </activity>
+        <activity
+            android:name="br.com.hidroluz.HidroluzWaterControl.Sair"
+            android:configChanges="orientation|keyboardHidden"
+            android:label="@string/app_name"
+            android:screenOrientation="sensorPortrait" >
+        </activity>
+        <activity
+            android:name="br.com.hidroluz.HidroluzWaterControl.GraficoValores"
+            android:configChanges="orientation|keyboardHidden"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name="br.com.hidroluz.HidroluzWaterControl.GraficoBarrasValores"
+            android:configChanges="orientation"
+            android:label="@string/app_name"
+            android:screenOrientation="landscape" >
+        </activity>
+        <activity
+            android:name="br.com.hidroluz.HidroluzWaterControl.GraficoConsumo"
+            android:configChanges="orientation"
+            android:label="@string/app_name"
+            android:screenOrientation="landscape" >
+        </activity>
+        <activity
+            android:name="br.com.hidroluz.HidroluzWaterControl.GraficoMedio"
+            android:configChanges="orientation"
+            android:label="@string/app_name"
+            android:screenOrientation="landscape" >
+        </activity>
+        <activity
+            android:name="br.com.hidroluz.HidroluzWaterControl.DadosLeitura"
+            android:configChanges="orientation|keyboardHidden"
+            android:label="@string/app_name"
+            android:screenOrientation="sensorPortrait" >
+        </activity>
+        <activity
+            android:name="br.com.hidroluz.HidroluzWaterControl.DrawerActivity"
+            android:configChanges="orientation|keyboardHidden"
+            android:label="@string/title_activity_drawer" >
+        </activity>
+        <activity
+            android:name="br.com.hidroluz.HidroluzWaterControl.Noticias"
+            android:configChanges="orientation|keyboardHidden"
+            android:label="@string/title_activity_noticias" >
+        </activity>
+        <activity
+            android:name="br.com.hidroluz.HidroluzWaterControl.ListadeLeituras"
+            android:configChanges="orientation|keyboardHidden"
+            android:label="@string/title_activity_listade_leituras" >
+        </activity>
+        <activity
+            android:name="br.com.hidroluz.HidroluzWaterControl.Tela_erro"
+            android:label="@string/title_activity_tela_erro" >
+        </activity>
+        <activity
+            android:name="br.com.hidroluz.HidroluzWaterControl.Cadastro"
+            android:label="@string/title_activity_cadastro"
+            android:windowSoftInputMode="adjustPan" >
+        </activity>
+        <activity
+            android:name="br.com.hidroluz.HidroluzWaterControl.Cadastro_unidades"
+            android:fitsSystemWindows="true"
+            android:label="@string/title_activity_cadastro_unidades"
+            android:windowSoftInputMode="adjustPan" />
+        <activity
+            android:name="br.com.hidroluz.HidroluzWaterControl.Login_ADM"
+            android:label="@string/title_activity_login__adm" >
+        </activity>
+        <activity
+            android:name="br.com.hidroluz.HidroluzWaterControl.Drawer_adm"
+            android:label="@string/title_activity_login__adm" >
+        </activity>
+        <activity
+            android:name="br.com.hidroluz.HidroluzWaterControl.Todas_as_leituras"
+            android:label="@string/title_activity_todas_as_leituras" >
+        </activity>
+        <activity
+            android:name="br.com.hidroluz.HidroluzWaterControl.Conta_Agua"
+            android:label="@string/title_activity_conta__agua" >
+        </activity>
+        <activity
+            android:name="br.com.hidroluz.HidroluzWaterControl.Escolha_unidade"
+            android:label="@string/title_activity_escolha_unidade" >
+        </activity>
+        <activity
+            android:name="br.com.hidroluz.HidroluzWaterControl.Cadastro_usuario"
+            android:label="@string/title_activity_cadastro_usuario" >
+        </activity>
+        <activity
+            android:name="br.com.hidroluz.HidroluzWaterControl.Codigo_confir"
+            android:label="@string/title_activity_codigo_confir" >
+        </activity>
+        <activity
+            android:name="br.com.hidroluz.HidroluzWaterControl.Esqueceu_senha"
+            android:label="@string/title_activity_esqueceu_senha" >
+        </activity>
+
+        <meta-data
+            android:name="com.facebook.sdk.ApplicationId"
+            android:value="@string/facebook_app_id" />
+
+        <activity
+            android:name="com.facebook.FacebookActivity"
+            android:configChanges="keyboard|keyboardHidden|screenLayout|screenSize|orientation"
+            android:label="@string/app_name"
+            android:theme="@style/com_facebook_activity_theme" />
+        <activity
+            android:name="com.facebook.CustomTabActivity"
+            android:exported="true" >
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="android.intent.category.BROWSABLE" />
+
+                <data android:scheme="@string/fb_login_protocol_scheme" />
+            </intent-filter>
+        </activity>
+        <activity android:name="com.facebook.CustomTabMainActivity" />
+        <!--
+         The initialization ContentProvider will call FacebookSdk.sdkInitialize automatically
+         with the application context. This config is merged in with the host app's manifest,
+         but there can only be one provider with the same authority activated at any given
+         point; so if the end user has two or more different apps that use Facebook SDK, only the
+         first one will be able to use the provider. To work around this problem, we use the
+         following placeholder in the authority to identify each host application as if it was
+         a completely different provider.
+        -->
+        <provider
+            android:name="com.facebook.internal.FacebookInitProvider"
+            android:authorities="br.com.hidroluz.HidroluzWaterControl.FacebookInitProvider"
+            android:exported="false" />
+    </application>
+
+</manifest>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" 
+    android:background="@color/branco">
+    
+  
+
+    <TextView
+        android:id="@+id/lblCliente"
+        style="@style/texto12margem"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/meses" />
+
+    <Spinner
+        android:id="@+id/spMeses"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <RelativeLayout
+        android:layout_width="340dp"
+        android:layout_height="300dp"
+        android:layout_gravity="center_horizontal" >
+
+        <TextView
+            android:id="@+id/idLeitura"
+            style="@style/texto9"
+            android:layout_width="150dp"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_marginTop="40dp"
+            android:layout_marginLeft="10dp"
+            android:clickable="true"
+            android:drawableTop="@drawable/leitura"
+            android:gravity="center"
+            android:onClick="dadosleitura"
+            android:text="@string/lblleitura" />
+
+        <TextView
+            android:id="@+id/idGraficoValor"
+            style="@style/texto9"
+            android:layout_width="150dp"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_marginTop="40dp"
+            android:layout_marginRight="20dp"
+            android:clickable="true"
+            android:drawableTop="@drawable/graficobarras"
+            android:gravity="center"
+            android:onClick="graficovalores"
+           android:layout_weight="1"
+            android:text="@string/lblGraficoValor" />
+
+        <TextView
+            android:id="@+id/idGraficoConsumo"
+            style="@style/texto9"
+            android:layout_width="150dp"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_marginTop="170dp"
+            android:layout_marginLeft="10dp"
+            android:clickable="true"
+            android:drawableTop="@drawable/graficobarras"
+            android:gravity="center"
+            android:onClick="graficoconsumo"
+            android:layout_weight="1"
+            android:text="@string/lblGraficoConsumo" />
+
+        <TextView
+            android:id="@+id/idGraficoMedio"
+            style="@style/texto9"
+            android:layout_width="150dp"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_marginTop="170dp"
+            android:layout_marginRight="20dp"
+            android:clickable="true"
+            android:drawableTop="@drawable/graficobarras"
+            android:gravity="center"
+            android:onClick="graficomedio"
+            android:layout_weight="1"
+            android:text="@string/lblGraficoMedio" />
+    </RelativeLayout>
+
+ 
+</LinearLayout>

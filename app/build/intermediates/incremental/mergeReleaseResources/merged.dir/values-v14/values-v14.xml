@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="ActionBar.Solid.Hidroluz" parent="@android:style/Widget.Holo.Light.ActionBar.Solid">
+        <item name="android:background">@drawable/ab_background_textured_hidroluz</item>
+        <item name="android:backgroundStacked">@drawable/ab_stacked_solid_hidroluz</item>
+        <item name="android:backgroundSplit">@drawable/ab_background_textured_hidroluz</item>
+        <item name="android:progressBarStyle">@style/ProgressBar.Hidroluz</item>
+    </style>
+    <style name="ActionBar.Transparent.Hidroluz" parent="@android:style/Widget.Holo.Light.ActionBar">
+        <item name="android:background">@drawable/ab_transparent_hidroluz</item>
+        <item name="android:progressBarStyle">@style/ProgressBar.Hidroluz</item>
+    </style>
+    <style name="ActionBarTabStyle.Hidroluz" parent="@android:style/Widget.Holo.Light.ActionBar.TabView">
+        <item name="android:background">@drawable/tab_indicator_ab_hidroluz</item>
+    </style>
+    <style name="ActionButton.CloseMode.Hidroluz" parent="@android:style/Widget.Holo.Light.ActionButton.CloseMode">
+        <item name="android:background">@drawable/btn_cab_done_hidroluz</item>
+    </style>
+    <style name="Base.TextAppearance.AppCompat.Button">
+        <item name="android:textSize">@dimen/abc_text_size_button_material</item>
+        <item name="android:textAllCaps">true</item>
+        <item name="android:textColor">?android:textColorPrimary</item>
+    </style>
+    <style name="DropDownListView.Hidroluz" parent="@android:style/Widget.Holo.Light.ListView.DropDown">
+        <item name="android:listSelector">@drawable/selectable_background_hidroluz</item>
+    </style>
+    <style name="DropDownNav.Hidroluz" parent="@android:style/Widget.Holo.Light.Spinner">
+        <item name="android:background">@drawable/spinner_background_ab_hidroluz</item>
+        <item name="android:popupBackground">@drawable/menu_dropdown_panel_hidroluz</item>
+        <item name="android:dropDownSelector">@drawable/selectable_background_hidroluz</item>
+    </style>
+    <style name="Platform.AppCompat" parent="Platform.V14.AppCompat"/>
+    <style name="Platform.AppCompat.Light" parent="Platform.V14.AppCompat.Light"/>
+    <style name="Platform.V14.AppCompat" parent="Platform.V11.AppCompat">
+        <item name="android:actionModeSelectAllDrawable">?actionModeSelectAllDrawable</item>
+
+        <item name="android:listPreferredItemPaddingLeft">@dimen/abc_list_item_padding_horizontal_material</item>
+        <item name="android:listPreferredItemPaddingRight">@dimen/abc_list_item_padding_horizontal_material</item>
+    </style>
+    <style name="Platform.V14.AppCompat.Light" parent="Platform.V11.AppCompat.Light">
+        <item name="android:actionModeSelectAllDrawable">?actionModeSelectAllDrawable</item>
+
+        <item name="android:listPreferredItemPaddingLeft">@dimen/abc_list_item_padding_horizontal_material</item>
+        <item name="android:listPreferredItemPaddingRight">@dimen/abc_list_item_padding_horizontal_material</item>
+    </style>
+    <style name="PopupMenu.Hidroluz" parent="@android:style/Widget.Holo.Light.ListPopupWindow">
+        <item name="android:popupBackground">@drawable/menu_dropdown_panel_hidroluz</item>	
+    </style>
+    <style name="ProgressBar.Hidroluz" parent="@android:style/Widget.Holo.Light.ProgressBar.Horizontal">
+        <item name="android:progressDrawable">@drawable/progress_horizontal_hidroluz</item>
+    </style>
+    <style name="TextAppearance.AppCompat.Notification" parent="@android:style/TextAppearance.StatusBar.EventContent"/>
+    <style name="TextAppearance.AppCompat.Notification.Title" parent="@android:style/TextAppearance.StatusBar.EventContent.Title"/>
+    <style name="TextAppearance.StatusBar.EventContent" parent="@android:style/TextAppearance.StatusBar.EventContent"/>
+    <style name="TextAppearance.StatusBar.EventContent.Info"/>
+    <style name="TextAppearance.StatusBar.EventContent.Line2">
+        <item name="android:textSize">@dimen/notification_subtext_size</item>
+    </style>
+    <style name="TextAppearance.StatusBar.EventContent.Time"/>
+    <style name="TextAppearance.StatusBar.EventContent.Title" parent="@android:style/TextAppearance.StatusBar.EventContent.Title"/>
+    <style name="Theme.Hidroluz" parent="@android:style/Theme.Holo.Light">
+        <item name="android:actionBarItemBackground">@drawable/selectable_background_hidroluz</item>
+        <item name="android:popupMenuStyle">@style/PopupMenu.Hidroluz</item>
+        <item name="android:dropDownListViewStyle">@style/DropDownListView.Hidroluz</item>
+        <item name="android:actionBarTabStyle">@style/ActionBarTabStyle.Hidroluz</item>
+        <item name="android:actionDropDownStyle">@style/DropDownNav.Hidroluz</item>
+        <item name="android:actionBarStyle">@style/ActionBar.Solid.Hidroluz</item>
+        <item name="android:actionModeBackground">@drawable/cab_background_top_hidroluz</item>
+        <item name="android:actionModeSplitBackground">@drawable/cab_background_bottom_hidroluz</item>
+        <item name="android:actionModeCloseButtonStyle">@style/ActionButton.CloseMode.Hidroluz</item>
+        
+        
+    </style>
+    <style name="Theme.Hidroluz.Widget" parent="@android:style/Theme.Holo">
+        <item name="android:popupMenuStyle">@style/PopupMenu.Hidroluz</item>
+        <item name="android:dropDownListViewStyle">@style/DropDownListView.Hidroluz</item>
+    </style>
+</resources>

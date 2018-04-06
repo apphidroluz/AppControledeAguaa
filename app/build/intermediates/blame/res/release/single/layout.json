@@ -1,0 +1,378 @@
+[
+    {
+        "merged": "C:\\uploads\\app\\build\\intermediates\\res\\merged\\release\\layout\\com_facebook_tooltip_bubble.xml",
+        "source": "C:\\Users\\Informatica\\.android\\build-cache\\b01c880b41a6130dbaaae9e07b097106c03b2cad\\output\\res\\layout\\com_facebook_tooltip_bubble.xml"
+    },
+    {
+        "merged": "C:\\uploads\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "C:\\Users\\Informatica\\.android\\build-cache\\dadc14cc44069ebfbceea45ef4791d78f84b71e1\\output\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "C:\\uploads\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_list_menu_item_icon.xml",
+        "source": "C:\\Users\\Informatica\\.android\\build-cache\\dadc14cc44069ebfbceea45ef4791d78f84b71e1\\output\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "C:\\uploads\\app\\build\\intermediates\\res\\merged\\release\\layout\\layout_consumo.xml",
+        "source": "C:\\uploads\\app\\src\\main\\res\\layout\\layout_consumo.xml"
+    },
+    {
+        "merged": "C:\\uploads\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "C:\\Users\\Informatica\\.android\\build-cache\\dadc14cc44069ebfbceea45ef4791d78f84b71e1\\output\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "C:\\uploads\\app\\build\\intermediates\\res\\merged\\release\\layout\\style_fundo.xml",
+        "source": "C:\\uploads\\app\\src\\main\\res\\layout\\style_fundo.xml"
+    },
+    {
+        "merged": "C:\\uploads\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_editar__dados__adm.xml",
+        "source": "C:\\uploads\\app\\src\\main\\res\\layout\\activity_editar__dados__adm.xml"
+    },
+    {
+        "merged": "C:\\uploads\\app\\build\\intermediates\\res\\merged\\release\\layout\\action_bar_layout.xml",
+        "source": "C:\\uploads\\app\\src\\main\\res\\layout\\action_bar_layout.xml"
+    },
+    {
+        "merged": "C:\\uploads\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_login__adm.xml",
+        "source": "C:\\uploads\\app\\src\\main\\res\\layout\\activity_login__adm.xml"
+    },
+    {
+        "merged": "C:\\uploads\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_main.xml",
+        "source": "C:\\uploads\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\uploads\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_alert_dialog_material.xml",
+        "source": "C:\\Users\\Informatica\\.android\\build-cache\\dadc14cc44069ebfbceea45ef4791d78f84b71e1\\output\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "C:\\uploads\\app\\build\\intermediates\\res\\merged\\release\\layout\\spinner_item.xml",
+        "source": "C:\\uploads\\app\\src\\main\\res\\layout\\spinner_item.xml"
+    },
+    {
+        "merged": "C:\\uploads\\app\\build\\intermediates\\res\\merged\\release\\layout\\cabecalho.xml",
+        "source": "C:\\uploads\\app\\src\\main\\res\\layout\\cabecalho.xml"
+    },
+    {
+        "merged": "C:\\uploads\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_dialog_title_material.xml",
+        "source": "C:\\Users\\Informatica\\.android\\build-cache\\dadc14cc44069ebfbceea45ef4791d78f84b71e1\\output\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "C:\\uploads\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "C:\\Users\\Informatica\\.android\\build-cache\\dadc14cc44069ebfbceea45ef4791d78f84b71e1\\output\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "C:\\uploads\\app\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\Informatica\\.android\\build-cache\\dadc14cc44069ebfbceea45ef4791d78f84b71e1\\output\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "C:\\uploads\\app\\build\\intermediates\\res\\merged\\release\\layout\\messenger_button_send_blue_round.xml",
+        "source": "C:\\Users\\Informatica\\.android\\build-cache\\b01c880b41a6130dbaaae9e07b097106c03b2cad\\output\\res\\layout\\messenger_button_send_blue_round.xml"
+    },
+    {
+        "merged": "C:\\uploads\\app\\build\\intermediates\\res\\merged\\release\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "C:\\Users\\Informatica\\.android\\build-cache\\dadc14cc44069ebfbceea45ef4791d78f84b71e1\\output\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "C:\\uploads\\app\\build\\intermediates\\res\\merged\\release\\layout\\item_lista_menu.xml",
+        "source": "C:\\uploads\\app\\src\\main\\res\\layout\\item_lista_menu.xml"
+    },
+    {
+        "merged": "C:\\uploads\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_screen_simple.xml",
+        "source": "C:\\Users\\Informatica\\.android\\build-cache\\dadc14cc44069ebfbceea45ef4791d78f84b71e1\\output\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "C:\\uploads\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_bar_up_container.xml",
+        "source": "C:\\Users\\Informatica\\.android\\build-cache\\dadc14cc44069ebfbceea45ef4791d78f84b71e1\\output\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "C:\\uploads\\app\\build\\intermediates\\res\\merged\\release\\layout\\layout_valores.xml",
+        "source": "C:\\uploads\\app\\src\\main\\res\\layout\\layout_valores.xml"
+    },
+    {
+        "merged": "C:\\uploads\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_bar_title_item.xml",
+        "source": "C:\\Users\\Informatica\\.android\\build-cache\\dadc14cc44069ebfbceea45ef4791d78f84b71e1\\output\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "C:\\uploads\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_esqueceu_senha.xml",
+        "source": "C:\\uploads\\app\\src\\main\\res\\layout\\activity_esqueceu_senha.xml"
+    },
+    {
+        "merged": "C:\\uploads\\app\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_lines_media.xml",
+        "source": "C:\\Users\\Informatica\\.android\\build-cache\\dadc14cc44069ebfbceea45ef4791d78f84b71e1\\output\\res\\layout\\notification_template_lines_media.xml"
+    },
+    {
+        "merged": "C:\\uploads\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "C:\\Users\\Informatica\\.android\\build-cache\\dadc14cc44069ebfbceea45ef4791d78f84b71e1\\output\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "C:\\uploads\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_noticias.xml",
+        "source": "C:\\uploads\\app\\src\\main\\res\\layout\\activity_noticias.xml"
+    },
+    {
+        "merged": "C:\\uploads\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_expanded_menu_layout.xml",
+        "source": "C:\\Users\\Informatica\\.android\\build-cache\\dadc14cc44069ebfbceea45ef4791d78f84b71e1\\output\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\uploads\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_tela_erro.xml",
+        "source": "C:\\uploads\\app\\src\\main\\res\\layout\\activity_tela_erro.xml"
+    },
+    {
+        "merged": "C:\\uploads\\app\\build\\intermediates\\res\\merged\\release\\layout\\fragment_navigation_drawer.xml",
+        "source": "C:\\uploads\\app\\src\\main\\res\\layout\\fragment_navigation_drawer.xml"
+    },
+    {
+        "merged": "C:\\uploads\\app\\build\\intermediates\\res\\merged\\release\\layout\\item_unidades.xml",
+        "source": "C:\\uploads\\app\\src\\main\\res\\layout\\item_unidades.xml"
+    },
+    {
+        "merged": "C:\\uploads\\app\\build\\intermediates\\res\\merged\\release\\layout\\com_facebook_login_fragment.xml",
+        "source": "C:\\Users\\Informatica\\.android\\build-cache\\b01c880b41a6130dbaaae9e07b097106c03b2cad\\output\\res\\layout\\com_facebook_login_fragment.xml"
+    },
+    {
+        "merged": "C:\\uploads\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_search_view.xml",
+        "source": "C:\\Users\\Informatica\\.android\\build-cache\\dadc14cc44069ebfbceea45ef4791d78f84b71e1\\output\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "C:\\uploads\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_listade_leituras.xml",
+        "source": "C:\\uploads\\app\\src\\main\\res\\layout\\activity_listade_leituras.xml"
+    },
+    {
+        "merged": "C:\\uploads\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "C:\\Users\\Informatica\\.android\\build-cache\\dadc14cc44069ebfbceea45ef4791d78f84b71e1\\output\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "C:\\uploads\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_list_menu_item_radio.xml",
+        "source": "C:\\Users\\Informatica\\.android\\build-cache\\dadc14cc44069ebfbceea45ef4791d78f84b71e1\\output\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "C:\\uploads\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "C:\\Users\\Informatica\\.android\\build-cache\\dadc14cc44069ebfbceea45ef4791d78f84b71e1\\output\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "C:\\uploads\\app\\build\\intermediates\\res\\merged\\release\\layout\\fragment_editar__cadastro.xml",
+        "source": "C:\\uploads\\app\\src\\main\\res\\layout\\fragment_editar__cadastro.xml"
+    },
+    {
+        "merged": "C:\\uploads\\app\\build\\intermediates\\res\\merged\\release\\layout\\style_edit_text.xml",
+        "source": "C:\\uploads\\app\\src\\main\\res\\layout\\style_edit_text.xml"
+    },
+    {
+        "merged": "C:\\uploads\\app\\build\\intermediates\\res\\merged\\release\\layout\\messenger_button_send_white_round.xml",
+        "source": "C:\\Users\\Informatica\\.android\\build-cache\\b01c880b41a6130dbaaae9e07b097106c03b2cad\\output\\res\\layout\\messenger_button_send_white_round.xml"
+    },
+    {
+        "merged": "C:\\uploads\\app\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\Informatica\\.android\\build-cache\\dadc14cc44069ebfbceea45ef4791d78f84b71e1\\output\\res\\layout\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "C:\\uploads\\app\\build\\intermediates\\res\\merged\\release\\layout\\select_dialog_item_material.xml",
+        "source": "C:\\Users\\Informatica\\.android\\build-cache\\dadc14cc44069ebfbceea45ef4791d78f84b71e1\\output\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "C:\\uploads\\app\\build\\intermediates\\res\\merged\\release\\layout\\fragment_navigation_drawer_adm.xml",
+        "source": "C:\\uploads\\app\\src\\main\\res\\layout\\fragment_navigation_drawer_adm.xml"
+    },
+    {
+        "merged": "C:\\uploads\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_activity_chooser_view.xml",
+        "source": "C:\\Users\\Informatica\\.android\\build-cache\\dadc14cc44069ebfbceea45ef4791d78f84b71e1\\output\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "C:\\uploads\\app\\build\\intermediates\\res\\merged\\release\\layout\\dados_leitura_completo.xml",
+        "source": "C:\\uploads\\app\\src\\main\\res\\layout\\dados_leitura_completo.xml"
+    },
+    {
+        "merged": "C:\\uploads\\app\\build\\intermediates\\res\\merged\\release\\layout\\com_facebook_smart_device_dialog_fragment.xml",
+        "source": "C:\\Users\\Informatica\\.android\\build-cache\\b01c880b41a6130dbaaae9e07b097106c03b2cad\\output\\res\\layout\\com_facebook_smart_device_dialog_fragment.xml"
+    },
+    {
+        "merged": "C:\\uploads\\app\\build\\intermediates\\res\\merged\\release\\layout\\custom_spinner.xml",
+        "source": "C:\\uploads\\app\\src\\main\\res\\layout\\custom_spinner.xml"
+    },
+    {
+        "merged": "C:\\uploads\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_editar__cadastro.xml",
+        "source": "C:\\uploads\\app\\src\\main\\res\\layout\\activity_editar__cadastro.xml"
+    },
+    {
+        "merged": "C:\\uploads\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_screen_toolbar.xml",
+        "source": "C:\\Users\\Informatica\\.android\\build-cache\\dadc14cc44069ebfbceea45ef4791d78f84b71e1\\output\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "C:\\uploads\\app\\build\\intermediates\\res\\merged\\release\\layout\\graficobarra.xml",
+        "source": "C:\\uploads\\app\\src\\main\\res\\layout\\graficobarra.xml"
+    },
+    {
+        "merged": "C:\\uploads\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_mode_bar.xml",
+        "source": "C:\\Users\\Informatica\\.android\\build-cache\\dadc14cc44069ebfbceea45ef4791d78f84b71e1\\output\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "C:\\uploads\\app\\build\\intermediates\\res\\merged\\release\\layout\\item_todas_as_leituras.xml",
+        "source": "C:\\uploads\\app\\src\\main\\res\\layout\\item_todas_as_leituras.xml"
+    },
+    {
+        "merged": "C:\\uploads\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_conta__agua.xml",
+        "source": "C:\\uploads\\app\\src\\main\\res\\layout\\activity_conta__agua.xml"
+    },
+    {
+        "merged": "C:\\uploads\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_menu_layout.xml",
+        "source": "C:\\Users\\Informatica\\.android\\build-cache\\dadc14cc44069ebfbceea45ef4791d78f84b71e1\\output\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\uploads\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_drawer_adm.xml",
+        "source": "C:\\uploads\\app\\src\\main\\res\\layout\\activity_drawer_adm.xml"
+    },
+    {
+        "merged": "C:\\uploads\\app\\build\\intermediates\\res\\merged\\release\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "C:\\Users\\Informatica\\.android\\build-cache\\dadc14cc44069ebfbceea45ef4791d78f84b71e1\\output\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "C:\\uploads\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "C:\\Users\\Informatica\\.android\\build-cache\\dadc14cc44069ebfbceea45ef4791d78f84b71e1\\output\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "C:\\uploads\\app\\build\\intermediates\\res\\merged\\release\\layout\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\Informatica\\.android\\build-cache\\dadc14cc44069ebfbceea45ef4791d78f84b71e1\\output\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "C:\\uploads\\app\\build\\intermediates\\res\\merged\\release\\layout\\drawer.xml",
+        "source": "C:\\uploads\\app\\src\\main\\res\\layout\\drawer.xml"
+    },
+    {
+        "merged": "C:\\uploads\\app\\build\\intermediates\\res\\merged\\release\\layout\\com_facebook_activity_layout.xml",
+        "source": "C:\\Users\\Informatica\\.android\\build-cache\\b01c880b41a6130dbaaae9e07b097106c03b2cad\\output\\res\\layout\\com_facebook_activity_layout.xml"
+    },
+    {
+        "merged": "C:\\uploads\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_select_dialog_material.xml",
+        "source": "C:\\Users\\Informatica\\.android\\build-cache\\dadc14cc44069ebfbceea45ef4791d78f84b71e1\\output\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "C:\\uploads\\app\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\Informatica\\.android\\build-cache\\dadc14cc44069ebfbceea45ef4791d78f84b71e1\\output\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "C:\\uploads\\app\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_media.xml",
+        "source": "C:\\Users\\Informatica\\.android\\build-cache\\dadc14cc44069ebfbceea45ef4791d78f84b71e1\\output\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "C:\\uploads\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "C:\\Users\\Informatica\\.android\\build-cache\\dadc14cc44069ebfbceea45ef4791d78f84b71e1\\output\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\uploads\\app\\build\\intermediates\\res\\merged\\release\\layout\\notification_action.xml",
+        "source": "C:\\Users\\Informatica\\.android\\build-cache\\dadc14cc44069ebfbceea45ef4791d78f84b71e1\\output\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "C:\\uploads\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_todas_as_leituras.xml",
+        "source": "C:\\uploads\\app\\src\\main\\res\\layout\\activity_todas_as_leituras.xml"
+    },
+    {
+        "merged": "C:\\uploads\\app\\build\\intermediates\\res\\merged\\release\\layout\\fragment_drawer_adm.xml",
+        "source": "C:\\uploads\\app\\src\\main\\res\\layout\\fragment_drawer_adm.xml"
+    },
+    {
+        "merged": "C:\\uploads\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_popup_menu_header_item_layout.xml",
+        "source": "C:\\Users\\Informatica\\.android\\build-cache\\dadc14cc44069ebfbceea45ef4791d78f84b71e1\\output\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "C:\\uploads\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_alert_dialog_title_material.xml",
+        "source": "C:\\Users\\Informatica\\.android\\build-cache\\dadc14cc44069ebfbceea45ef4791d78f84b71e1\\output\\res\\layout\\abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "C:\\uploads\\app\\build\\intermediates\\res\\merged\\release\\layout\\messenger_button_send_blue_large.xml",
+        "source": "C:\\Users\\Informatica\\.android\\build-cache\\b01c880b41a6130dbaaae9e07b097106c03b2cad\\output\\res\\layout\\messenger_button_send_blue_large.xml"
+    },
+    {
+        "merged": "C:\\uploads\\app\\build\\intermediates\\res\\merged\\release\\layout\\principal.xml",
+        "source": "C:\\uploads\\app\\src\\main\\res\\layout\\principal.xml"
+    },
+    {
+        "merged": "C:\\uploads\\app\\build\\intermediates\\res\\merged\\release\\layout\\select_dialog_multichoice_material.xml",
+        "source": "C:\\Users\\Informatica\\.android\\build-cache\\dadc14cc44069ebfbceea45ef4791d78f84b71e1\\output\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "C:\\uploads\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_menu_item_layout.xml",
+        "source": "C:\\Users\\Informatica\\.android\\build-cache\\dadc14cc44069ebfbceea45ef4791d78f84b71e1\\output\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\uploads\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_cadastro.xml",
+        "source": "C:\\uploads\\app\\src\\main\\res\\layout\\activity_cadastro.xml"
+    },
+    {
+        "merged": "C:\\uploads\\app\\build\\intermediates\\res\\merged\\release\\layout\\drawer_item.xml",
+        "source": "C:\\uploads\\app\\src\\main\\res\\layout\\drawer_item.xml"
+    },
+    {
+        "merged": "C:\\uploads\\app\\build\\intermediates\\res\\merged\\release\\layout\\style_fundo_layout.xml",
+        "source": "C:\\uploads\\app\\src\\main\\res\\layout\\style_fundo_layout.xml"
+    },
+    {
+        "merged": "C:\\uploads\\app\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\Informatica\\.android\\build-cache\\dadc14cc44069ebfbceea45ef4791d78f84b71e1\\output\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "C:\\uploads\\app\\build\\intermediates\\res\\merged\\release\\layout\\fragment_main.xml",
+        "source": "C:\\uploads\\app\\src\\main\\res\\layout\\fragment_main.xml"
+    },
+    {
+        "merged": "C:\\uploads\\app\\build\\intermediates\\res\\merged\\release\\layout\\messenger_button_send_white_small.xml",
+        "source": "C:\\Users\\Informatica\\.android\\build-cache\\b01c880b41a6130dbaaae9e07b097106c03b2cad\\output\\res\\layout\\messenger_button_send_white_small.xml"
+    },
+    {
+        "merged": "C:\\uploads\\app\\build\\intermediates\\res\\merged\\release\\layout\\messenger_button_send_white_large.xml",
+        "source": "C:\\Users\\Informatica\\.android\\build-cache\\b01c880b41a6130dbaaae9e07b097106c03b2cad\\output\\res\\layout\\messenger_button_send_white_large.xml"
+    },
+    {
+        "merged": "C:\\uploads\\app\\build\\intermediates\\res\\merged\\release\\layout\\dialog.xml",
+        "source": "C:\\uploads\\app\\src\\main\\res\\layout\\dialog.xml"
+    },
+    {
+        "merged": "C:\\uploads\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_screen_content_include.xml",
+        "source": "C:\\Users\\Informatica\\.android\\build-cache\\dadc14cc44069ebfbceea45ef4791d78f84b71e1\\output\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "C:\\uploads\\app\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_media_custom.xml",
+        "source": "C:\\Users\\Informatica\\.android\\build-cache\\dadc14cc44069ebfbceea45ef4791d78f84b71e1\\output\\res\\layout\\notification_template_media_custom.xml"
+    },
+    {
+        "merged": "C:\\uploads\\app\\build\\intermediates\\res\\merged\\release\\layout\\item_lista_consumo.xml",
+        "source": "C:\\uploads\\app\\src\\main\\res\\layout\\item_lista_consumo.xml"
+    },
+    {
+        "merged": "C:\\uploads\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_cadastro_usuario.xml",
+        "source": "C:\\uploads\\app\\src\\main\\res\\layout\\activity_cadastro_usuario.xml"
+    },
+    {
+        "merged": "C:\\uploads\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_list_menu_item_layout.xml",
+        "source": "C:\\Users\\Informatica\\.android\\build-cache\\dadc14cc44069ebfbceea45ef4791d78f84b71e1\\output\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\uploads\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_escolha_unidade.xml",
+        "source": "C:\\uploads\\app\\src\\main\\res\\layout\\activity_escolha_unidade.xml"
+    },
+    {
+        "merged": "C:\\uploads\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_cadastro_unidades.xml",
+        "source": "C:\\uploads\\app\\src\\main\\res\\layout\\activity_cadastro_unidades.xml"
+    },
+    {
+        "merged": "C:\\uploads\\app\\build\\intermediates\\res\\merged\\release\\layout\\messenger_button_send_blue_small.xml",
+        "source": "C:\\Users\\Informatica\\.android\\build-cache\\b01c880b41a6130dbaaae9e07b097106c03b2cad\\output\\res\\layout\\messenger_button_send_blue_small.xml"
+    },
+    {
+        "merged": "C:\\uploads\\app\\build\\intermediates\\res\\merged\\release\\layout\\dadosleitura.xml",
+        "source": "C:\\uploads\\app\\src\\main\\res\\layout\\dadosleitura.xml"
+    },
+    {
+        "merged": "C:\\uploads\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_codigo_confir.xml",
+        "source": "C:\\uploads\\app\\src\\main\\res\\layout\\activity_codigo_confir.xml"
+    },
+    {
+        "merged": "C:\\uploads\\app\\build\\intermediates\\res\\merged\\release\\layout\\item_lista_leitura.xml",
+        "source": "C:\\uploads\\app\\src\\main\\res\\layout\\item_lista_leitura.xml"
+    },
+    {
+        "merged": "C:\\uploads\\app\\build\\intermediates\\res\\merged\\release\\layout\\com_facebook_device_auth_dialog_fragment.xml",
+        "source": "C:\\Users\\Informatica\\.android\\build-cache\\b01c880b41a6130dbaaae9e07b097106c03b2cad\\output\\res\\layout\\com_facebook_device_auth_dialog_fragment.xml"
+    },
+    {
+        "merged": "C:\\uploads\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_ajuda.xml",
+        "source": "C:\\uploads\\app\\src\\main\\res\\layout\\activity_ajuda.xml"
+    }
+]

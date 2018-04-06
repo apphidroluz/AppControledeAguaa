@@ -1,0 +1,43 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/branco"
+    android:orientation="vertical"
+    tools:context="br.com.hidroluz.HidroluzWaterControl.Conta_Agua" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical" >
+
+        <Button
+            android:id="@+id/btncamera"
+            style="@style/texto9"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/layoutbutton"
+            android:text="Iniciar Camera"
+            android:textColor="@color/branco" />
+
+        <ImageView
+            android:id="@+id/imagemcamera"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.97"
+            android:src="@drawable/contaagua"
+            
+            />
+
+        <Button
+            android:id="@+id/btnenviar"
+            style="@style/texto9"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/layoutbutton"
+            android:onClick="EnviarConta"
+            android:text="Enviar Conta"
+            android:textColor="@color/branco" />
+    </LinearLayout>
+
+</FrameLayout>

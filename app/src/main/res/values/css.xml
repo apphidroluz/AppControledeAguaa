@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- Tema padrão -->
+    <style name="tema" parent="@android:style/Theme.Light">
+    </style>
+
+    <!-- Texto tamnho 12 -->
+    <style name="texto12">
+        <item name="android:textColor">@color/preto</item>
+        <item name="android:textSize">12sp</item>
+    </style>
+
+    <style name="texto12negrito" parent="texto12">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <!-- Texto tamnho 14 -->
+    <style name="texto14">
+        <item name="android:textColor">@color/preto</item>
+        <item name="android:textSize">14pt</item>
+    </style>
+
+    <style name="texto14negrito" parent="texto14">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <!-- Texto tamnho 14 Azul -->
+    <style name="texto14Azul">
+        <item name="android:textColor">@color/azul</item>
+        <item name="android:textSize">16pt</item>
+    </style>
+
+    <style name="texto14negritoAzul" parent="texto14Azul">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <!-- Texto tamnho 12 -->
+    <style name="texto12margem">
+        <item name="android:textColor">@color/preto</item>
+        <item name="android:textSize">10pt</item>
+    </style>
+
+    <!-- Texto tamnho 10pt azul -->
+    <style name="texto10azul">
+        <item name="android:textColor">@color/azul</item>
+        <item name="android:textSize">10pt</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <!-- Texto tamnho 10pt amarelo -->
+    <style name="texto10amarelo">
+        <item name="android:textColor">@color/amarelo</item>
+        <item name="android:textSize">10pt</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <!-- Texto tamnho 7pt -->
+    <style name="texto7">
+        <item name="android:textColor">@color/preto</item>
+        <item name="android:textSize">7pt</item>
+    </style>
+
+    <!-- Texto tamnho 7pt Branco -->
+    <style name="texto7branco">
+        <item name="android:textColor">@color/branco</item>
+        <item name="android:textSize">7pt</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <!-- Texto tamnho 9pt -->
+    <style name="texto9">
+        <item name="android:textColor">@color/preto</item>
+        <item name="android:textSize">8pt</item>
+    </style>
+
+    <!-- Texto tamnho 9pt -->
+    <style name="texto9branco">
+        <item name="android:textColor">@color/branco</item>
+        <item name="android:textSize">8pt</item>
+        <item name="android:textStyle">bold</item>
+        </style>
+
+    <style name="TitleBarText">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">fill_parent</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:paddingLeft">12dip</item>
+        <item name="android:paddingRight">12dip</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@android:color/white</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:ellipsize">end</item>
+    </style>
+
+</resources>

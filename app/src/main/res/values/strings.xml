@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Hidroluz - Controle de água</string>
+    <string name="action_settings">Settings</string>
+    <string name="facebook_app_id">143997559518724</string>
+    <string name="fb_login_protocol_scheme">fb143997559518724</string>
+
+    <!-- Tela Login -->
+    <string name="usuario">Login :</string>
+    <string name="senha">Senha :</string>
+    <string name="bntEntrar">ENTRAR</string>
+    <string name="bntSair">Sair</string>
+
+    <!-- Tela Principal -->
+    <string name="meses">Selecione o mês:</string>
+    <string name="lblleitura">Leituras</string>
+    <string name="lblGraficoValor">Valores</string>
+    <string name="lblGraficoConsumo">Consumo</string>
+    <string name="lblGraficoMedio">Consumo Médio</string>
+    <string name="ConsumoMensal">Consumo Mensal</string>
+    <string name="DiasConsumo">Dias Consumo</string>
+    <string name="ConsumoDi">Consumo Diário</string>
+    <string name="DataLeitura">Data Leitura</string>
+
+    <!-- Tela Dados da Leitura -->
+    <string name="unidade">Unidade:</string>
+    <string name="bloco">Bloco:</string>
+    <string name="DigUsu">E-mail</string>
+    <string name="DigSen">Senha</string>
+    <string name="indiceatual">Indíce atual</string>
+    <string name="indiceanterior">Indíce anterior</string>
+    <string name="consumoDiario">Consumo Diário</string>
+    <string name="consumo">Consumo</string>
+    <string name="consumototal">Consumo total</string>
+    <string name="valorunidade">Valor unidade</string>
+    <string name="valorrateio">Valor rateio</string>
+    <string name="valortotal">Valor total</string>
+    <string name="hidrometro">Hidrômetro</string>
+    <string name="title_activity_drawer">Hidroluz</string>
+    <string name="title_section1">Section 1</string>
+    <string name="title_section2">Section 2</string>
+    <string name="title_section3">Section 3</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_example">Example action</string>
+    <string name="title_activity_drawer_activity1">DrawerActivity1</string>
+    <string name="title_activity_cadastro_unidades">Cadastro de Unidades</string>
+    <string name="title_activity_menu">MenuActivity</string>
+    <string name="title_activity_noticias">Noticias</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="message_closeApplication">Deseja Realmente Sair?</string>
+    <string name="label_Yes">SIM</string>
+    <string name="label_No">NÃO</string>
+    <string name="site"> <u>Não tenho cadastro </u></string>
+    <string name="site2"><u>Esqueci minha senha</u></string>
+    <string name="title_activity_listade_leituras">ListadeLeituras</string>
+    <string name="title_activity_tela_erro">Tela_erro</string>
+    <string name="title_activity_cadastro">Cadastro</string>
+    <string name="lblnome">Nome:</string>
+    <string name="lblemail">E-mail:</string>
+    <string name="lbltelefone">Celular:</string>
+    <string name="lblbtn">ENVIAR</string>
+    <string name="lblComp">Complete Seu Cadastro</string>
+    <string name="title_activity_teste">Teste</string>
+    <string name="title_activity_login__adm">Login_ADM</string>
+    <string name="lbllogin">Novo Usuario</string>
+    <string name="lblsenha">Nova Senha</string>
+    <string name="lbleditarcad">Alterar Cadastro</string>
+    <string name="OutraContra">Acessar Outra Conta</string>
+    <string name="naotemcadastro">Não tenho Cadastro</string>
+    <string name="Ajuda1">Nessa tela temos informações sobre o consumo da sua unidade como a quantidade de M³, a data da leitura, o intervalo de dias entre as leitura e a média diária. Clicando  na leitura você tem as informações completas como o valor que foi pago (e o detalhamento da leitura por cada hidrômetro ), caso haja alguma ocorrência  na sua unidade nesse período será informado nessa tela.;</string>
+    <string name="Ajuda2">	No aplicativo da Hidroluz existem três opções de gráficos que tem ajudam a controlar seu consumo de água. 
+	A primeira e o gráfico de valores que mostra os valores referentes ao seu consumo nos  últimos 12 meses.
+	A segunda é o gráfico sobre o consumo em m³ da sua unidade, assim da para saber os meses que você gasta mais ou menos e desta forma economizar.
+	O terceiro mostra a media de consumo diário em cada mês.
+</string>
+    <string name="Ajuda3">Pelo aplicativo você pode atualizar o seu cadastro, e também ter acesso as ultimas noticias que a Hidroluz preparou para você.  </string>
+    <string name="CodigoCondomio">Cadastro de Unidades</string>
+    <string name="CodigoInforme">Digite o codigo ou cnpj do seu condomínio</string>
+    <string name="Ajuda_Cadastro">Passo a Passo Cadastro</string>
+    <string name="Ajuda_Cadastro1">1º Digite o código do seu condômino, esse código foi informado a administração e também esta nos banners de divulgação.</string>
+    <string name="Ajuda_Cadastro2">2º Vão aparecer as informações do seu condomínio, estando tudo certo é so preencher os campos com as informações cadastrais. Digite seu bloco e unidade e suas informações pessoais. Quando você clicar em enviar será verificado se as informações sobre a sua unidade estão certas. Caso você receba a informação que a unidade não existe ou que já existe um cadastro ativo entre em contato com a administração do seu condomínio e solicite a informação correta sobre a nomenclatura da sua unidade ou caso haja um cadastro ativo eles podem verificar quem está cadastrado e apagar os dados se for o caso, liberando a unidade para ser realizada o cadastro.</string>
+    <string name="Ajuda_Cadastro3">3º Estando tudo certo você receberá um email com seu usuário e senha e só utilizá-los para acessar.  Dentro do aplicativo você poderá mudar o login e senha se assim desejar.</string>
+    <string name="Ajuda_Cadastro4">4º Parabéns, agora você pode acompanhar o seu consumo  e assim economizar na sua conta de água.</string>
+    <string name="title_activity_todas_as_leituras">Todas_as_leituras</string>
+    <string name="title_activity_conta__agua">Conta_Agua</string>
+    <string name="title_activity_escolha_unidade">Escolha_unidade</string>
+    <string name="title_activity_cadastro_usuario">Cadastro_usuario</string>
+    <string name="title_activity_codigo_confir">Codigo_confir</string>
+    <string name="title_activity_esqueceu_senha">Esqueceu_senha</string>
+
+</resources>

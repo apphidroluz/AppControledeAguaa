@@ -1,0 +1,100 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/branco"
+    android:orientation="vertical"
+    tools:context="br.com.hidroluz.HidroluzWaterControl.Editar_Cadastro$PlaceholderFragment" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/azul_h"
+        android:padding="5sp" >
+
+        <TextView
+            android:id="@+id/textView1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text="@string/lbleditarcad"
+            android:textColor="@color/branco"
+            android:textSize="16sp"
+            android:textStyle="bold" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="5sp" >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/lblnome" />
+
+        <EditText
+            android:id="@+id/txtnome_alt"
+            android:layout_width="301dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:editable="false"
+            android:focusable="false"
+            android:inputType="text" >
+        </EditText>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/lblemail" />
+
+        <EditText
+            android:id="@+id/txtemail_alt"
+            android:layout_width="301dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:editable="false"
+            android:focusable="false"
+            android:inputType="textEmailAddress" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/lbltelefone" />
+
+        <EditText
+            android:id="@+id/txttelefone_alt"
+            android:layout_width="301dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:inputType="number" >
+        </EditText>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/lblsenha" />
+
+        <EditText
+            android:id="@+id/txtsenha_alt"
+            android:layout_width="301dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:inputType="textPassword" >
+        </EditText>
+
+        <Button
+            android:id="@+id/btn_alterar"
+            style="@style/texto9"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginTop="10dp"
+            android:layout_weight="0.1"
+            android:background="@drawable/layoutbutton"
+            android:text="@string/lblbtn"
+            android:textColor="@color/branco" />
+    </LinearLayout>
+
+</LinearLayout>

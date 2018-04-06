@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\uploads\\app\\build\\intermediates\\res\\merged\\debug\\drawable-large\\leitura.png",
+        "source": "C:\\uploads\\app\\src\\main\\res\\drawable-large\\leitura.png"
+    },
+    {
+        "merged": "C:\\uploads\\app\\build\\intermediates\\res\\merged\\debug\\drawable-large\\graficobarras.png",
+        "source": "C:\\uploads\\app\\src\\main\\res\\drawable-large\\graficobarras.png"
+    },
+    {
+        "merged": "C:\\uploads\\app\\build\\intermediates\\res\\merged\\debug\\drawable-large\\ic_launcher.png",
+        "source": "C:\\uploads\\app\\src\\main\\res\\drawable-large\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\uploads\\app\\build\\intermediates\\res\\merged\\debug\\drawable-large\\ic_launcherr.png",
+        "source": "C:\\uploads\\app\\src\\main\\res\\drawable-large\\ic_launcherr.png"
+    }
+]

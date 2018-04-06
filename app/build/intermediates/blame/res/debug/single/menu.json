@@ -1,0 +1,82 @@
+[
+    {
+        "merged": "C:\\uploads\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu.xml",
+        "source": "C:\\uploads\\app\\src\\main\\res\\menu\\menu.xml"
+    },
+    {
+        "merged": "C:\\uploads\\app\\build\\intermediates\\res\\merged\\debug\\menu\\tela_erro.xml",
+        "source": "C:\\uploads\\app\\src\\main\\res\\menu\\tela_erro.xml"
+    },
+    {
+        "merged": "C:\\uploads\\app\\build\\intermediates\\res\\merged\\debug\\menu\\noticias.xml",
+        "source": "C:\\uploads\\app\\src\\main\\res\\menu\\noticias.xml"
+    },
+    {
+        "merged": "C:\\uploads\\app\\build\\intermediates\\res\\merged\\debug\\menu\\escolha_unidade.xml",
+        "source": "C:\\uploads\\app\\src\\main\\res\\menu\\escolha_unidade.xml"
+    },
+    {
+        "merged": "C:\\uploads\\app\\build\\intermediates\\res\\merged\\debug\\menu\\drawer.xml",
+        "source": "C:\\uploads\\app\\src\\main\\res\\menu\\drawer.xml"
+    },
+    {
+        "merged": "C:\\uploads\\app\\build\\intermediates\\res\\merged\\debug\\menu\\cadastro.xml",
+        "source": "C:\\uploads\\app\\src\\main\\res\\menu\\cadastro.xml"
+    },
+    {
+        "merged": "C:\\uploads\\app\\build\\intermediates\\res\\merged\\debug\\menu\\drawer_activity1.xml",
+        "source": "C:\\uploads\\app\\src\\main\\res\\menu\\drawer_activity1.xml"
+    },
+    {
+        "merged": "C:\\uploads\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "C:\\uploads\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "C:\\uploads\\app\\build\\intermediates\\res\\merged\\debug\\menu\\todas_as_leituras.xml",
+        "source": "C:\\uploads\\app\\src\\main\\res\\menu\\todas_as_leituras.xml"
+    },
+    {
+        "merged": "C:\\uploads\\app\\build\\intermediates\\res\\merged\\debug\\menu\\drawer_adm.xml",
+        "source": "C:\\uploads\\app\\src\\main\\res\\menu\\drawer_adm.xml"
+    },
+    {
+        "merged": "C:\\uploads\\app\\build\\intermediates\\res\\merged\\debug\\menu\\editar__cadastro.xml",
+        "source": "C:\\uploads\\app\\src\\main\\res\\menu\\editar__cadastro.xml"
+    },
+    {
+        "merged": "C:\\uploads\\app\\build\\intermediates\\res\\merged\\debug\\menu\\listade_leituras.xml",
+        "source": "C:\\uploads\\app\\src\\main\\res\\menu\\listade_leituras.xml"
+    },
+    {
+        "merged": "C:\\uploads\\app\\build\\intermediates\\res\\merged\\debug\\menu\\cadastro_usuario.xml",
+        "source": "C:\\uploads\\app\\src\\main\\res\\menu\\cadastro_usuario.xml"
+    },
+    {
+        "merged": "C:\\uploads\\app\\build\\intermediates\\res\\merged\\debug\\menu\\global.xml",
+        "source": "C:\\uploads\\app\\src\\main\\res\\menu\\global.xml"
+    },
+    {
+        "merged": "C:\\uploads\\app\\build\\intermediates\\res\\merged\\debug\\menu\\codigo_confir.xml",
+        "source": "C:\\uploads\\app\\src\\main\\res\\menu\\codigo_confir.xml"
+    },
+    {
+        "merged": "C:\\uploads\\app\\build\\intermediates\\res\\merged\\debug\\menu\\ajuda.xml",
+        "source": "C:\\uploads\\app\\src\\main\\res\\menu\\ajuda.xml"
+    },
+    {
+        "merged": "C:\\uploads\\app\\build\\intermediates\\res\\merged\\debug\\menu\\conta__agua.xml",
+        "source": "C:\\uploads\\app\\src\\main\\res\\menu\\conta__agua.xml"
+    },
+    {
+        "merged": "C:\\uploads\\app\\build\\intermediates\\res\\merged\\debug\\menu\\login__adm.xml",
+        "source": "C:\\uploads\\app\\src\\main\\res\\menu\\login__adm.xml"
+    },
+    {
+        "merged": "C:\\uploads\\app\\build\\intermediates\\res\\merged\\debug\\menu\\teste.xml",
+        "source": "C:\\uploads\\app\\src\\main\\res\\menu\\teste.xml"
+    },
+    {
+        "merged": "C:\\uploads\\app\\build\\intermediates\\res\\merged\\debug\\menu\\esqueceu_senha.xml",
+        "source": "C:\\uploads\\app\\src\\main\\res\\menu\\esqueceu_senha.xml"
+    }
+]

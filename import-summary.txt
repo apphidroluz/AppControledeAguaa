@@ -1,0 +1,203 @@
+ECLIPSE ANDROID PROJECT IMPORT SUMMARY
+======================================
+
+Ignored Files:
+--------------
+The following files were *not* copied into the new Gradle project; you
+should evaluate whether these are still needed in your project and if
+so manually move them:
+
+* .idea\
+* .idea\HidroluzWaterControl.iml
+* .idea\compiler.xml
+* .idea\copyright\
+* .idea\copyright\profiles_settings.xml
+* .idea\misc.xml
+* .idea\modules.xml
+* .idea\workspace.xml
+* .metadata\
+* .metadata\.lock
+* .metadata\.log
+* .metadata\.plugins\
+* .metadata\.plugins\com.android.ide.eclipse.adt\
+* .metadata\.plugins\com.android.ide.eclipse.adt\palette-preview-r16b-19-temahidroluz-37wvganexusone\
+* .metadata\.plugins\com.android.ide.eclipse.adt\palette-preview-r16b-19-temahidroluz-37wvganexusone\AnalogClock.png
+* .metadata\.plugins\com.android.ide.eclipse.adt\palette-preview-r16b-19-temahidroluz-37wvganexusone\AutoCompleteTextView.png
+* .metadata\.plugins\com.android.ide.eclipse.adt\palette-preview-r16b-19-temahidroluz-37wvganexusone\Button.png
+* .metadata\.plugins\com.android.ide.eclipse.adt\palette-preview-r16b-19-temahidroluz-37wvganexusone\CalendarView.png
+* .metadata\.plugins\com.android.ide.eclipse.adt\palette-preview-r16b-19-temahidroluz-37wvganexusone\CheckBox.png
+* .metadata\.plugins\com.android.ide.eclipse.adt\palette-preview-r16b-19-temahidroluz-37wvganexusone\CheckedTextView.png
+* .metadata\.plugins\com.android.ide.eclipse.adt\palette-preview-r16b-19-temahidroluz-37wvganexusone\Date.png
+* .metadata\.plugins\com.android.ide.eclipse.adt\palette-preview-r16b-19-temahidroluz-37wvganexusone\DigitalClock.png
+* .metadata\.plugins\com.android.ide.eclipse.adt\palette-preview-r16b-19-temahidroluz-37wvganexusone\Email.png
+* .metadata\.plugins\com.android.ide.eclipse.adt\palette-preview-r16b-19-temahidroluz-37wvganexusone\ExpandableListView.png
+* .metadata\.plugins\com.android.ide.eclipse.adt\palette-preview-r16b-19-temahidroluz-37wvganexusone\LargeText.png
+* .metadata\.plugins\com.android.ide.eclipse.adt\palette-preview-r16b-19-temahidroluz-37wvganexusone\ListView.png
+* .metadata\.plugins\com.android.ide.eclipse.adt\palette-preview-r16b-19-temahidroluz-37wvganexusone\MediumText.png
+* .metadata\.plugins\com.android.ide.eclipse.adt\palette-preview-r16b-19-temahidroluz-37wvganexusone\MultiAutoCompleteTextView.png
+* .metadata\.plugins\com.android.ide.eclipse.adt\palette-preview-r16b-19-temahidroluz-37wvganexusone\MultilineText.png
+* .metadata\.plugins\com.android.ide.eclipse.adt\palette-preview-r16b-19-temahidroluz-37wvganexusone\Number.png
+* .metadata\.plugins\com.android.ide.eclipse.adt\palette-preview-r16b-19-temahidroluz-37wvganexusone\NumberDecimal.png
+* .metadata\.plugins\com.android.ide.eclipse.adt\palette-preview-r16b-19-temahidroluz-37wvganexusone\NumberSigned.png
+* .metadata\.plugins\com.android.ide.eclipse.adt\palette-preview-r16b-19-temahidroluz-37wvganexusone\Password.png
+* .metadata\.plugins\com.android.ide.eclipse.adt\palette-preview-r16b-19-temahidroluz-37wvganexusone\PasswordNumeric.png
+* .metadata\.plugins\com.android.ide.eclipse.adt\palette-preview-r16b-19-temahidroluz-37wvganexusone\PersonName.png
+* .metadata\.plugins\com.android.ide.eclipse.adt\palette-preview-r16b-19-temahidroluz-37wvganexusone\Phone.png
+* .metadata\.plugins\com.android.ide.eclipse.adt\palette-preview-r16b-19-temahidroluz-37wvganexusone\PlainText.png
+* .metadata\.plugins\com.android.ide.eclipse.adt\palette-preview-r16b-19-temahidroluz-37wvganexusone\PostalAddress.png
+* .metadata\.plugins\com.android.ide.eclipse.adt\palette-preview-r16b-19-temahidroluz-37wvganexusone\ProgressBarHorizontal.png
+* .metadata\.plugins\com.android.ide.eclipse.adt\palette-preview-r16b-19-temahidroluz-37wvganexusone\ProgressBarLarge.png
+* .metadata\.plugins\com.android.ide.eclipse.adt\palette-preview-r16b-19-temahidroluz-37wvganexusone\ProgressBarNormal.png
+* .metadata\.plugins\com.android.ide.eclipse.adt\palette-preview-r16b-19-temahidroluz-37wvganexusone\ProgressBarSmall.png
+* .metadata\.plugins\com.android.ide.eclipse.adt\palette-preview-r16b-19-temahidroluz-37wvganexusone\QuickContactBadge.png
+* .metadata\.plugins\com.android.ide.eclipse.adt\palette-preview-r16b-19-temahidroluz-37wvganexusone\RadioButton.png
+* .metadata\.plugins\com.android.ide.eclipse.adt\palette-preview-r16b-19-temahidroluz-37wvganexusone\RadioGroup.png
+* .metadata\.plugins\com.android.ide.eclipse.adt\palette-preview-r16b-19-temahidroluz-37wvganexusone\RatingBar.png
+* .metadata\.plugins\com.android.ide.eclipse.adt\palette-preview-r16b-19-temahidroluz-37wvganexusone\SeekBar.png
+* .metadata\.plugins\com.android.ide.eclipse.adt\palette-preview-r16b-19-temahidroluz-37wvganexusone\SmallButton.png
+* .metadata\.plugins\com.android.ide.eclipse.adt\palette-preview-r16b-19-temahidroluz-37wvganexusone\SmallText.png
+* .metadata\.plugins\com.android.ide.eclipse.adt\palette-preview-r16b-19-temahidroluz-37wvganexusone\Spinner.png
+* .metadata\.plugins\com.android.ide.eclipse.adt\palette-preview-r16b-19-temahidroluz-37wvganexusone\Switch.png
+* .metadata\.plugins\com.android.ide.eclipse.adt\palette-preview-r16b-19-temahidroluz-37wvganexusone\TabHost.png
+* .metadata\.plugins\com.android.ide.eclipse.adt\palette-preview-r16b-19-temahidroluz-37wvganexusone\TabWidget.png
+* .metadata\.plugins\com.android.ide.eclipse.adt\palette-preview-r16b-19-temahidroluz-37wvganexusone\TextView.png
+* .metadata\.plugins\com.android.ide.eclipse.adt\palette-preview-r16b-19-temahidroluz-37wvganexusone\Time.png
+* .metadata\.plugins\com.android.ide.eclipse.adt\palette-preview-r16b-19-temahidroluz-37wvganexusone\ToggleButton.png
+* .metadata\.plugins\com.android.ide.eclipse.adt\palette-preview-r16b-19-temahidroluz-37wvganexusone\ZoomButton.png
+* .metadata\.plugins\com.android.ide.eclipse.adt\palette-preview-r16b-19-temahidroluz-37wvganexusone\ZoomControls.png
+* .metadata\.plugins\com.android.ide.eclipse.adt\palette-preview-r16b-19-temahidroluz-37wvganexusone\preview.properties
+* .metadata\.plugins\org.eclipse.cdt.core\
+* .metadata\.plugins\org.eclipse.cdt.core\.log
+* .metadata\.plugins\org.eclipse.cdt.make.core\
+* .metadata\.plugins\org.eclipse.cdt.make.core\specs.c
+* .metadata\.plugins\org.eclipse.cdt.make.core\specs.cpp
+* .metadata\.plugins\org.eclipse.core.resources\
+* .metadata\.plugins\org.eclipse.core.resources\.history\
+* .metadata\.plugins\org.eclipse.core.resources\.history\90\
+* .metadata\.plugins\org.eclipse.core.resources\.history\90\a021f5ab2ba700161717f993cd654e0e
+* .metadata\.plugins\org.eclipse.core.resources\.history\d0\
+* .metadata\.plugins\org.eclipse.core.resources\.history\d0\10c2f3ab2ba700161717f993cd654e0e
+* .metadata\.plugins\org.eclipse.core.resources\.projects\
+* .metadata\.plugins\org.eclipse.core.resources\.projects\MainActivity\
+* .metadata\.plugins\org.eclipse.core.resources\.projects\MainActivity\.indexes\
+* .metadata\.plugins\org.eclipse.core.resources\.projects\MainActivity\.indexes\a0\
+* .metadata\.plugins\org.eclipse.core.resources\.projects\MainActivity\.indexes\a0\3a\
+* .metadata\.plugins\org.eclipse.core.resources\.projects\MainActivity\.indexes\a0\3a\properties.index
+* .metadata\.plugins\org.eclipse.core.resources\.projects\MainActivity\.indexes\a0\5f\
+* .metadata\.plugins\org.eclipse.core.resources\.projects\MainActivity\.indexes\a0\5f\properties.index
+* .metadata\.plugins\org.eclipse.core.resources\.projects\MainActivity\.indexes\a0\62\
+* .metadata\.plugins\org.eclipse.core.resources\.projects\MainActivity\.indexes\a0\62\properties.index
+* .metadata\.plugins\org.eclipse.core.resources\.projects\MainActivity\.indexes\a0\8a\
+* .metadata\.plugins\org.eclipse.core.resources\.projects\MainActivity\.indexes\a0\8a\properties.index
+* .metadata\.plugins\org.eclipse.core.resources\.projects\MainActivity\.indexes\a0\d6\
+* .metadata\.plugins\org.eclipse.core.resources\.projects\MainActivity\.indexes\a0\d6\properties.index
+* .metadata\.plugins\org.eclipse.core.resources\.projects\MainActivity\.indexes\a0\d8\
+* .metadata\.plugins\org.eclipse.core.resources\.projects\MainActivity\.indexes\a0\d8\properties.index
+* .metadata\.plugins\org.eclipse.core.resources\.projects\MainActivity\.indexes\a0\de\
+* .metadata\.plugins\org.eclipse.core.resources\.projects\MainActivity\.indexes\a0\de\properties.index
+* .metadata\.plugins\org.eclipse.core.resources\.projects\MainActivity\.indexes\a0\eb\
+* .metadata\.plugins\org.eclipse.core.resources\.projects\MainActivity\.indexes\a0\eb\properties.index
+* .metadata\.plugins\org.eclipse.core.resources\.projects\MainActivity\.indexes\a0\ee\
+* .metadata\.plugins\org.eclipse.core.resources\.projects\MainActivity\.indexes\a0\ee\properties.index
+* .metadata\.plugins\org.eclipse.core.resources\.projects\MainActivity\.indexes\af\
+* .metadata\.plugins\org.eclipse.core.resources\.projects\MainActivity\.indexes\af\history.index
+* .metadata\.plugins\org.eclipse.core.resources\.projects\MainActivity\.indexes\properties.index
+* .metadata\.plugins\org.eclipse.core.resources\.projects\MainActivity\.location
+* .metadata\.plugins\org.eclipse.core.resources\.projects\MainActivity\.markers
+* .metadata\.plugins\org.eclipse.core.resources\.projects\MainActivity\.markers.snap
+* .metadata\.plugins\org.eclipse.core.resources\.projects\MainActivity\.syncinfo.snap
+* .metadata\.plugins\org.eclipse.core.resources\.projects\MainActivity\org.eclipse.jdt.core\
+* .metadata\.plugins\org.eclipse.core.resources\.projects\MainActivity\org.eclipse.jdt.core\state.dat
+* .metadata\.plugins\org.eclipse.core.resources\.root\
+* .metadata\.plugins\org.eclipse.core.resources\.root\.indexes\
+* .metadata\.plugins\org.eclipse.core.resources\.root\.indexes\history.version
+* .metadata\.plugins\org.eclipse.core.resources\.root\.indexes\properties.index
+* .metadata\.plugins\org.eclipse.core.resources\.root\.indexes\properties.version
+* .metadata\.plugins\org.eclipse.core.resources\.root\.markers.snap
+* .metadata\.plugins\org.eclipse.core.resources\.root\2.tree
+* .metadata\.plugins\org.eclipse.core.resources\.safetable\
+* .metadata\.plugins\org.eclipse.core.resources\.safetable\org.eclipse.core.resources
+* .metadata\.plugins\org.eclipse.core.resources\.snap
+* .metadata\.plugins\org.eclipse.core.runtime\
+* .metadata\.plugins\org.eclipse.core.runtime\.settings\
+* .metadata\.plugins\org.eclipse.core.runtime\.settings\com.android.ide.eclipse.adt.prefs
+* .metadata\.plugins\org.eclipse.core.runtime\.settings\org.eclipse.cdt.ui.prefs
+* .metadata\.plugins\org.eclipse.core.runtime\.settings\org.eclipse.core.resources.prefs
+* .metadata\.plugins\org.eclipse.core.runtime\.settings\org.eclipse.debug.ui.prefs
+* .metadata\.plugins\org.eclipse.core.runtime\.settings\org.eclipse.jdt.core.prefs
+* .metadata\.plugins\org.eclipse.core.runtime\.settings\org.eclipse.jdt.ui.prefs
+* .metadata\.plugins\org.eclipse.core.runtime\.settings\org.eclipse.ui.editors.prefs
+* .metadata\.plugins\org.eclipse.core.runtime\.settings\org.eclipse.ui.ide.prefs
+* .metadata\.plugins\org.eclipse.core.runtime\.settings\org.eclipse.ui.prefs
+* .metadata\.plugins\org.eclipse.core.runtime\.settings\org.eclipse.wst.sse.ui.prefs
+* .metadata\.plugins\org.eclipse.e4.workbench\
+* .metadata\.plugins\org.eclipse.e4.workbench\workbench.xmi
+* .metadata\.plugins\org.eclipse.jdt.core\
+* .metadata\.plugins\org.eclipse.jdt.core\1669765014.index
+* .metadata\.plugins\org.eclipse.jdt.core\1755391530.index
+* .metadata\.plugins\org.eclipse.jdt.core\491653069.index
+* .metadata\.plugins\org.eclipse.jdt.core\715257351.index
+* .metadata\.plugins\org.eclipse.jdt.core\externalLibsTimeStamps
+* .metadata\.plugins\org.eclipse.jdt.core\indexNamesMap.txt
+* .metadata\.plugins\org.eclipse.jdt.core\invalidArchivesCache
+* .metadata\.plugins\org.eclipse.jdt.core\javaLikeNames.txt
+* .metadata\.plugins\org.eclipse.jdt.core\nonChainingJarsCache
+* .metadata\.plugins\org.eclipse.jdt.core\savedIndexNames.txt
+* .metadata\.plugins\org.eclipse.jdt.core\variablesAndContainers.dat
+* .metadata\.plugins\org.eclipse.jdt.ui\
+* .metadata\.plugins\org.eclipse.jdt.ui\OpenTypeHistory.xml
+* .metadata\.plugins\org.eclipse.jdt.ui\QualifiedTypeNameHistory.xml
+* .metadata\.plugins\org.eclipse.jdt.ui\dialog_settings.xml
+* .metadata\.plugins\org.eclipse.ui.workbench\
+* .metadata\.plugins\org.eclipse.ui.workbench\dialog_settings.xml
+* .metadata\.plugins\org.eclipse.ui.workbench\workingsets.xml
+* .metadata\.plugins\org.eclipse.wst.sse.ui\
+* .metadata\.plugins\org.eclipse.wst.sse.ui\dialog_settings.xml
+* .metadata\.plugins\org.eclipse.wst.xml.core\
+* .metadata\.plugins\org.eclipse.wst.xml.core\default_catalog.xml
+* .metadata\.plugins\org.eclipse.wst.xml.core\system_catalog.xml
+* .metadata\version.ini
+* ic_launcher-web.png
+* proguard-project.txt
+
+Replaced Jars with Dependencies:
+--------------------------------
+The importer recognized the following .jar files as third party
+libraries and replaced them with Gradle dependencies instead. This has
+the advantage that more explicit version information is known, and the
+libraries can be updated automatically. However, it is possible that
+the .jar file in your project was of an older version than the
+dependency we picked, which could render the project not compileable.
+You can disable the jar replacement in the import wizard and try again:
+
+android-support-v4.jar => com.android.support:support-v4:18.0.0
+android-support-v7-appcompat.jar => com.android.support:appcompat-v7:18.0.0
+
+Moved Files:
+------------
+Android Gradle projects use a different directory structure than ADT
+Eclipse projects. Here's how the projects were restructured:
+
+* AndroidManifest.xml => app\src\main\AndroidManifest.xml
+* assets\ => app\src\main\assets
+* libs\achartengine-0.7.0.jar => app\libs\achartengine-0.7.0.jar
+* libs\activation.jar => app\libs\activation.jar
+* libs\additionnal.jar => app\libs\additionnal.jar
+* libs\mail.jar => app\libs\mail.jar
+* res\ => app\src\main\res\
+* src\ => app\src\main\java\
+
+Next Steps:
+-----------
+You can now build the project. The Gradle project needs network
+connectivity to download dependencies.
+
+Bugs:
+-----
+If for some reason your project does not build, and you determine that
+it is due to a bug or limitation of the Eclipse to Gradle importer,
+please file a bug at http://b.android.com with category
+Component-Tools.
+
+(This import summary is for your information only, and can be deleted
+after import once you are satisfied with the results.)

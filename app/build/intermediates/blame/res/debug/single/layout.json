@@ -1,0 +1,406 @@
+[
+    {
+        "merged": "C:\\uploads\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cabecalho.xml",
+        "source": "C:\\uploads\\app\\src\\main\\res\\layout\\cabecalho.xml"
+    },
+    {
+        "merged": "C:\\uploads\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_navigation_drawer_adm.xml",
+        "source": "C:\\uploads\\app\\src\\main\\res\\layout\\fragment_navigation_drawer_adm.xml"
+    },
+    {
+        "merged": "C:\\uploads\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_valores.xml",
+        "source": "C:\\uploads\\app\\src\\main\\res\\layout\\layout_valores.xml"
+    },
+    {
+        "merged": "C:\\uploads\\app\\build\\intermediates\\res\\merged\\debug\\layout\\com_facebook_smart_device_dialog_fragment.xml",
+        "source": "C:\\Users\\robso\\.android\\build-cache\\ce311651d838aef6cdff4585820da7a43c426140\\output\\res\\layout\\com_facebook_smart_device_dialog_fragment.xml"
+    },
+    {
+        "merged": "C:\\uploads\\app\\build\\intermediates\\res\\merged\\debug\\layout\\com_facebook_device_auth_dialog_fragment.xml",
+        "source": "C:\\Users\\robso\\.android\\build-cache\\ce311651d838aef6cdff4585820da7a43c426140\\output\\res\\layout\\com_facebook_device_auth_dialog_fragment.xml"
+    },
+    {
+        "merged": "C:\\uploads\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "C:\\Users\\robso\\.android\\build-cache\\c11500ef0e8f6dde7a9bd1994eb093373fca8262\\output\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "C:\\uploads\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "C:\\Users\\robso\\.android\\build-cache\\c11500ef0e8f6dde7a9bd1994eb093373fca8262\\output\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "C:\\uploads\\app\\build\\intermediates\\res\\merged\\debug\\layout\\action_bar_layout.xml",
+        "source": "C:\\uploads\\app\\src\\main\\res\\layout\\action_bar_layout.xml"
+    },
+    {
+        "merged": "C:\\uploads\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_lista_consumo.xml",
+        "source": "C:\\uploads\\app\\src\\main\\res\\layout\\item_lista_consumo.xml"
+    },
+    {
+        "merged": "C:\\uploads\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\robso\\.android\\build-cache\\c11500ef0e8f6dde7a9bd1994eb093373fca8262\\output\\res\\layout\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "C:\\uploads\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dadosleitura.xml",
+        "source": "C:\\uploads\\app\\src\\main\\res\\layout\\dadosleitura.xml"
+    },
+    {
+        "merged": "C:\\uploads\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "C:\\Users\\robso\\.android\\build-cache\\c11500ef0e8f6dde7a9bd1994eb093373fca8262\\output\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "C:\\uploads\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_consumo.xml",
+        "source": "C:\\uploads\\app\\src\\main\\res\\layout\\layout_consumo.xml"
+    },
+    {
+        "merged": "C:\\uploads\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "C:\\Users\\robso\\.android\\build-cache\\c11500ef0e8f6dde7a9bd1994eb093373fca8262\\output\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "C:\\uploads\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_drawer_adm.xml",
+        "source": "C:\\uploads\\app\\src\\main\\res\\layout\\fragment_drawer_adm.xml"
+    },
+    {
+        "merged": "C:\\uploads\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines_media.xml",
+        "source": "C:\\Users\\robso\\.android\\build-cache\\c11500ef0e8f6dde7a9bd1994eb093373fca8262\\output\\res\\layout\\notification_template_lines_media.xml"
+    },
+    {
+        "merged": "C:\\uploads\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_codigo_confir.xml",
+        "source": "C:\\uploads\\app\\src\\main\\res\\layout\\activity_codigo_confir.xml"
+    },
+    {
+        "merged": "C:\\uploads\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_editar__dados__adm.xml",
+        "source": "C:\\uploads\\app\\src\\main\\res\\layout\\activity_editar__dados__adm.xml"
+    },
+    {
+        "merged": "C:\\uploads\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_custom.xml",
+        "source": "C:\\Users\\Informatica\\.android\\build-cache\\82481f05a6293b4ae69f8c325cdc9a2859c776f1\\output\\res\\layout\\notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "C:\\uploads\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "C:\\Users\\robso\\.android\\build-cache\\c11500ef0e8f6dde7a9bd1994eb093373fca8262\\output\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\uploads\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "C:\\Users\\robso\\.android\\build-cache\\c11500ef0e8f6dde7a9bd1994eb093373fca8262\\output\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "C:\\uploads\\app\\build\\intermediates\\res\\merged\\debug\\layout\\com_facebook_activity_layout.xml",
+        "source": "C:\\Users\\robso\\.android\\build-cache\\ce311651d838aef6cdff4585820da7a43c426140\\output\\res\\layout\\com_facebook_activity_layout.xml"
+    },
+    {
+        "merged": "C:\\uploads\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\uploads\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\uploads\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action.xml",
+        "source": "C:\\Users\\robso\\.android\\build-cache\\c11500ef0e8f6dde7a9bd1994eb093373fca8262\\output\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "C:\\uploads\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\robso\\.android\\build-cache\\c11500ef0e8f6dde7a9bd1994eb093373fca8262\\output\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "C:\\uploads\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_lista_leitura.xml",
+        "source": "C:\\uploads\\app\\src\\main\\res\\layout\\item_lista_leitura.xml"
+    },
+    {
+        "merged": "C:\\uploads\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "C:\\Users\\Informatica\\.android\\build-cache\\82481f05a6293b4ae69f8c325cdc9a2859c776f1\\output\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "C:\\uploads\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_noticias.xml",
+        "source": "C:\\uploads\\app\\src\\main\\res\\layout\\activity_noticias.xml"
+    },
+    {
+        "merged": "C:\\uploads\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_tela_erro.xml",
+        "source": "C:\\uploads\\app\\src\\main\\res\\layout\\activity_tela_erro.xml"
+    },
+    {
+        "merged": "C:\\uploads\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "C:\\Users\\robso\\.android\\build-cache\\c11500ef0e8f6dde7a9bd1994eb093373fca8262\\output\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "C:\\uploads\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_navigation_drawer.xml",
+        "source": "C:\\uploads\\app\\src\\main\\res\\layout\\fragment_navigation_drawer.xml"
+    },
+    {
+        "merged": "C:\\uploads\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "C:\\Users\\robso\\.android\\build-cache\\c11500ef0e8f6dde7a9bd1994eb093373fca8262\\output\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "C:\\uploads\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_listade_leituras.xml",
+        "source": "C:\\uploads\\app\\src\\main\\res\\layout\\activity_listade_leituras.xml"
+    },
+    {
+        "merged": "C:\\uploads\\app\\build\\intermediates\\res\\merged\\debug\\layout\\messenger_button_send_blue_small.xml",
+        "source": "C:\\Users\\robso\\.android\\build-cache\\ce311651d838aef6cdff4585820da7a43c426140\\output\\res\\layout\\messenger_button_send_blue_small.xml"
+    },
+    {
+        "merged": "C:\\uploads\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
+        "source": "C:\\Users\\robso\\.android\\build-cache\\c11500ef0e8f6dde7a9bd1994eb093373fca8262\\output\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "C:\\uploads\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "C:\\Users\\robso\\.android\\build-cache\\c11500ef0e8f6dde7a9bd1994eb093373fca8262\\output\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "C:\\uploads\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "C:\\Users\\robso\\.android\\build-cache\\c11500ef0e8f6dde7a9bd1994eb093373fca8262\\output\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "C:\\uploads\\app\\build\\intermediates\\res\\merged\\debug\\layout\\style_fundo_layout.xml",
+        "source": "C:\\uploads\\app\\src\\main\\res\\layout\\style_fundo_layout.xml"
+    },
+    {
+        "merged": "C:\\uploads\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog.xml",
+        "source": "C:\\uploads\\app\\src\\main\\res\\layout\\dialog.xml"
+    },
+    {
+        "merged": "C:\\uploads\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "C:\\Users\\robso\\.android\\build-cache\\c11500ef0e8f6dde7a9bd1994eb093373fca8262\\output\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "C:\\uploads\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "C:\\Users\\robso\\.android\\build-cache\\c11500ef0e8f6dde7a9bd1994eb093373fca8262\\output\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "C:\\uploads\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "C:\\Users\\robso\\.android\\build-cache\\c11500ef0e8f6dde7a9bd1994eb093373fca8262\\output\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "C:\\uploads\\app\\build\\intermediates\\res\\merged\\debug\\layout\\messenger_button_send_white_large.xml",
+        "source": "C:\\Users\\robso\\.android\\build-cache\\ce311651d838aef6cdff4585820da7a43c426140\\output\\res\\layout\\messenger_button_send_white_large.xml"
+    },
+    {
+        "merged": "C:\\uploads\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "C:\\Users\\robso\\.android\\build-cache\\c11500ef0e8f6dde7a9bd1994eb093373fca8262\\output\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "C:\\uploads\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "C:\\Users\\robso\\.android\\build-cache\\c11500ef0e8f6dde7a9bd1994eb093373fca8262\\output\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "C:\\uploads\\app\\build\\intermediates\\res\\merged\\debug\\layout\\drawer.xml",
+        "source": "C:\\uploads\\app\\src\\main\\res\\layout\\drawer.xml"
+    },
+    {
+        "merged": "C:\\uploads\\app\\build\\intermediates\\res\\merged\\debug\\layout\\spinner_item.xml",
+        "source": "C:\\uploads\\app\\src\\main\\res\\layout\\spinner_item.xml"
+    },
+    {
+        "merged": "C:\\uploads\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
+        "source": "C:\\Users\\Informatica\\.android\\build-cache\\82481f05a6293b4ae69f8c325cdc9a2859c776f1\\output\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "C:\\uploads\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_ajuda.xml",
+        "source": "C:\\uploads\\app\\src\\main\\res\\layout\\activity_ajuda.xml"
+    },
+    {
+        "merged": "C:\\uploads\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_lista_menu.xml",
+        "source": "C:\\uploads\\app\\src\\main\\res\\layout\\item_lista_menu.xml"
+    },
+    {
+        "merged": "C:\\uploads\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "C:\\Users\\robso\\.android\\build-cache\\c11500ef0e8f6dde7a9bd1994eb093373fca8262\\output\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "C:\\uploads\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "C:\\Users\\robso\\.android\\build-cache\\c11500ef0e8f6dde7a9bd1994eb093373fca8262\\output\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "C:\\uploads\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "C:\\Users\\robso\\.android\\build-cache\\c11500ef0e8f6dde7a9bd1994eb093373fca8262\\output\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\uploads\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "C:\\Users\\robso\\.android\\build-cache\\c11500ef0e8f6dde7a9bd1994eb093373fca8262\\output\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "C:\\uploads\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login__adm.xml",
+        "source": "C:\\uploads\\app\\src\\main\\res\\layout\\activity_login__adm.xml"
+    },
+    {
+        "merged": "C:\\uploads\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\robso\\.android\\build-cache\\c11500ef0e8f6dde7a9bd1994eb093373fca8262\\output\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "C:\\uploads\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
+        "source": "C:\\Users\\Informatica\\.android\\build-cache\\82481f05a6293b4ae69f8c325cdc9a2859c776f1\\output\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "C:\\uploads\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "C:\\Users\\robso\\.android\\build-cache\\c11500ef0e8f6dde7a9bd1994eb093373fca8262\\output\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "C:\\uploads\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_todas_as_leituras.xml",
+        "source": "C:\\uploads\\app\\src\\main\\res\\layout\\item_todas_as_leituras.xml"
+    },
+    {
+        "merged": "C:\\uploads\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media_custom.xml",
+        "source": "C:\\Users\\robso\\.android\\build-cache\\c11500ef0e8f6dde7a9bd1994eb093373fca8262\\output\\res\\layout\\notification_template_media_custom.xml"
+    },
+    {
+        "merged": "C:\\uploads\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_todas_as_leituras.xml",
+        "source": "C:\\uploads\\app\\src\\main\\res\\layout\\activity_todas_as_leituras.xml"
+    },
+    {
+        "merged": "C:\\uploads\\app\\build\\intermediates\\res\\merged\\debug\\layout\\messenger_button_send_white_round.xml",
+        "source": "C:\\Users\\robso\\.android\\build-cache\\ce311651d838aef6cdff4585820da7a43c426140\\output\\res\\layout\\messenger_button_send_white_round.xml"
+    },
+    {
+        "merged": "C:\\uploads\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\robso\\.android\\build-cache\\c11500ef0e8f6dde7a9bd1994eb093373fca8262\\output\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "C:\\uploads\\app\\build\\intermediates\\res\\merged\\debug\\layout\\com_facebook_tooltip_bubble.xml",
+        "source": "C:\\Users\\robso\\.android\\build-cache\\ce311651d838aef6cdff4585820da7a43c426140\\output\\res\\layout\\com_facebook_tooltip_bubble.xml"
+    },
+    {
+        "merged": "C:\\uploads\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_conta__agua.xml",
+        "source": "C:\\uploads\\app\\src\\main\\res\\layout\\activity_conta__agua.xml"
+    },
+    {
+        "merged": "C:\\uploads\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "C:\\Users\\robso\\.android\\build-cache\\c11500ef0e8f6dde7a9bd1994eb093373fca8262\\output\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\uploads\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_title_material.xml",
+        "source": "C:\\Users\\robso\\.android\\build-cache\\c11500ef0e8f6dde7a9bd1994eb093373fca8262\\output\\res\\layout\\abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "C:\\uploads\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_escolha_unidade.xml",
+        "source": "C:\\uploads\\app\\src\\main\\res\\layout\\activity_escolha_unidade.xml"
+    },
+    {
+        "merged": "C:\\uploads\\app\\build\\intermediates\\res\\merged\\debug\\layout\\alert_dialog.xml",
+        "source": "C:\\Users\\robso\\.android\\build-cache\\e31f5e66fbf61680627db3b0a3d9a46b71524639\\output\\res\\layout\\alert_dialog.xml"
+    },
+    {
+        "merged": "C:\\uploads\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow_custom.xml",
+        "source": "C:\\Users\\Informatica\\.android\\build-cache\\82481f05a6293b4ae69f8c325cdc9a2859c776f1\\output\\res\\layout\\notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "C:\\uploads\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_unidades.xml",
+        "source": "C:\\uploads\\app\\src\\main\\res\\layout\\item_unidades.xml"
+    },
+    {
+        "merged": "C:\\uploads\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "C:\\Users\\robso\\.android\\build-cache\\c11500ef0e8f6dde7a9bd1994eb093373fca8262\\output\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\uploads\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
+        "source": "C:\\Users\\Informatica\\.android\\build-cache\\82481f05a6293b4ae69f8c325cdc9a2859c776f1\\output\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "C:\\uploads\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_cadastro_usuario.xml",
+        "source": "C:\\uploads\\app\\src\\main\\res\\layout\\activity_cadastro_usuario.xml"
+    },
+    {
+        "merged": "C:\\uploads\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_drawer_adm.xml",
+        "source": "C:\\uploads\\app\\src\\main\\res\\layout\\activity_drawer_adm.xml"
+    },
+    {
+        "merged": "C:\\uploads\\app\\build\\intermediates\\res\\merged\\debug\\layout\\style_edit_text.xml",
+        "source": "C:\\uploads\\app\\src\\main\\res\\layout\\style_edit_text.xml"
+    },
+    {
+        "merged": "C:\\uploads\\app\\build\\intermediates\\res\\merged\\debug\\layout\\messenger_button_send_blue_round.xml",
+        "source": "C:\\Users\\robso\\.android\\build-cache\\ce311651d838aef6cdff4585820da7a43c426140\\output\\res\\layout\\messenger_button_send_blue_round.xml"
+    },
+    {
+        "merged": "C:\\uploads\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_cadastro.xml",
+        "source": "C:\\uploads\\app\\src\\main\\res\\layout\\activity_cadastro.xml"
+    },
+    {
+        "merged": "C:\\uploads\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "C:\\Users\\robso\\.android\\build-cache\\c11500ef0e8f6dde7a9bd1994eb093373fca8262\\output\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "C:\\uploads\\app\\build\\intermediates\\res\\merged\\debug\\layout\\custom_spinner.xml",
+        "source": "C:\\uploads\\app\\src\\main\\res\\layout\\custom_spinner.xml"
+    },
+    {
+        "merged": "C:\\uploads\\app\\build\\intermediates\\res\\merged\\debug\\layout\\style_fundo.xml",
+        "source": "C:\\uploads\\app\\src\\main\\res\\layout\\style_fundo.xml"
+    },
+    {
+        "merged": "C:\\uploads\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\robso\\.android\\build-cache\\c11500ef0e8f6dde7a9bd1994eb093373fca8262\\output\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "C:\\uploads\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_editar__cadastro.xml",
+        "source": "C:\\uploads\\app\\src\\main\\res\\layout\\fragment_editar__cadastro.xml"
+    },
+    {
+        "merged": "C:\\uploads\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "C:\\Users\\robso\\.android\\build-cache\\c11500ef0e8f6dde7a9bd1994eb093373fca8262\\output\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "C:\\uploads\\app\\build\\intermediates\\res\\merged\\debug\\layout\\principal.xml",
+        "source": "C:\\uploads\\app\\src\\main\\res\\layout\\principal.xml"
+    },
+    {
+        "merged": "C:\\uploads\\app\\build\\intermediates\\res\\merged\\debug\\layout\\graficobarra.xml",
+        "source": "C:\\uploads\\app\\src\\main\\res\\layout\\graficobarra.xml"
+    },
+    {
+        "merged": "C:\\uploads\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "C:\\Users\\robso\\.android\\build-cache\\c11500ef0e8f6dde7a9bd1994eb093373fca8262\\output\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "C:\\uploads\\app\\build\\intermediates\\res\\merged\\debug\\layout\\drawer_item.xml",
+        "source": "C:\\uploads\\app\\src\\main\\res\\layout\\drawer_item.xml"
+    },
+    {
+        "merged": "C:\\uploads\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "C:\\Users\\robso\\.android\\build-cache\\c11500ef0e8f6dde7a9bd1994eb093373fca8262\\output\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\uploads\\app\\build\\intermediates\\res\\merged\\debug\\layout\\messenger_button_send_white_small.xml",
+        "source": "C:\\Users\\robso\\.android\\build-cache\\ce311651d838aef6cdff4585820da7a43c426140\\output\\res\\layout\\messenger_button_send_white_small.xml"
+    },
+    {
+        "merged": "C:\\uploads\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dados_leitura_completo.xml",
+        "source": "C:\\uploads\\app\\src\\main\\res\\layout\\dados_leitura_completo.xml"
+    },
+    {
+        "merged": "C:\\uploads\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "C:\\Users\\robso\\.android\\build-cache\\c11500ef0e8f6dde7a9bd1994eb093373fca8262\\output\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "C:\\uploads\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "C:\\Users\\robso\\.android\\build-cache\\c11500ef0e8f6dde7a9bd1994eb093373fca8262\\output\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "C:\\uploads\\app\\build\\intermediates\\res\\merged\\debug\\layout\\com_facebook_login_fragment.xml",
+        "source": "C:\\Users\\robso\\.android\\build-cache\\ce311651d838aef6cdff4585820da7a43c426140\\output\\res\\layout\\com_facebook_login_fragment.xml"
+    },
+    {
+        "merged": "C:\\uploads\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_main.xml",
+        "source": "C:\\uploads\\app\\src\\main\\res\\layout\\fragment_main.xml"
+    },
+    {
+        "merged": "C:\\uploads\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "C:\\Users\\robso\\.android\\build-cache\\c11500ef0e8f6dde7a9bd1994eb093373fca8262\\output\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "C:\\uploads\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_cadastro_unidades.xml",
+        "source": "C:\\uploads\\app\\src\\main\\res\\layout\\activity_cadastro_unidades.xml"
+    },
+    {
+        "merged": "C:\\uploads\\app\\build\\intermediates\\res\\merged\\debug\\layout\\messenger_button_send_blue_large.xml",
+        "source": "C:\\Users\\robso\\.android\\build-cache\\ce311651d838aef6cdff4585820da7a43c426140\\output\\res\\layout\\messenger_button_send_blue_large.xml"
+    },
+    {
+        "merged": "C:\\uploads\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "C:\\Users\\robso\\.android\\build-cache\\c11500ef0e8f6dde7a9bd1994eb093373fca8262\\output\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "C:\\uploads\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_editar__cadastro.xml",
+        "source": "C:\\uploads\\app\\src\\main\\res\\layout\\activity_editar__cadastro.xml"
+    },
+    {
+        "merged": "C:\\uploads\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_esqueceu_senha.xml",
+        "source": "C:\\uploads\\app\\src\\main\\res\\layout\\activity_esqueceu_senha.xml"
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "C:\\uploads\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\layout_consumo.xml",
+        "source": "C:\\uploads\\app\\src\\main\\res\\layout-large\\layout_consumo.xml"
+    },
+    {
+        "merged": "C:\\uploads\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\item_lista_leitura.xml",
+        "source": "C:\\uploads\\app\\src\\main\\res\\layout-large\\item_lista_leitura.xml"
+    },
+    {
+        "merged": "C:\\uploads\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\layout_valores.xml",
+        "source": "C:\\uploads\\app\\src\\main\\res\\layout-large\\layout_valores.xml"
+    },
+    {
+        "merged": "C:\\uploads\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\dados_leitura_completo.xml",
+        "source": "C:\\uploads\\app\\src\\main\\res\\layout-large\\dados_leitura_completo.xml"
+    },
+    {
+        "merged": "C:\\uploads\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\spinner_item.xml",
+        "source": "C:\\uploads\\app\\src\\main\\res\\layout-large\\spinner_item.xml"
+    },
+    {
+        "merged": "C:\\uploads\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\activity_noticias.xml",
+        "source": "C:\\uploads\\app\\src\\main\\res\\layout-large\\activity_noticias.xml"
+    },
+    {
+        "merged": "C:\\uploads\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\activity_listade_leituras.xml",
+        "source": "C:\\uploads\\app\\src\\main\\res\\layout-large\\activity_listade_leituras.xml"
+    }
+]

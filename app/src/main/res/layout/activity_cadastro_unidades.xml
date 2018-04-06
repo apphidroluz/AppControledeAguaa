@@ -1,0 +1,191 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/branco"
+    android:orientation="vertical"
+    >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/azul_h"
+        android:padding="7sp" >
+
+        <TextView
+            android:id="@+id/textView1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text="@string/CodigoCondomio"
+            android:textColor="@color/branco"
+            android:textSize="16sp"
+            android:textStyle="bold" />
+    </LinearLayout>
+
+
+
+    <LinearLayout
+        android:id="@+id/linecad"
+        android:layout_width="301dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="100dp"
+        android:orientation="vertical"
+        >
+
+        <TextView
+            android:id="@+id/txt_informe"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:padding="5dp"
+            android:textSize="16sp"
+            android:textStyle="bold"
+            android:text="@string/CodigoInforme" />
+
+        <EditText
+            android:id="@+id/txt_codigo"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:inputType="number"
+            android:padding="5sp" >
+        </EditText>
+
+        <LinearLayout
+            android:layout_width="332dp"
+            android:layout_height="80dp"
+            android:layout_gravity="center"
+            android:layout_marginTop="20dp"
+            android:orientation="horizontal"
+            android:paddingLeft="10pt"
+            android:paddingRight="10pt" >
+
+            <Button
+                android:id="@+id/buscar"
+                style="@style/texto9"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginTop="10dp"
+                android:layout_weight="0.1"
+                android:background="@drawable/layoutbutton"
+                android:onClick="buscar"
+                android:text="@string/lblbtn"
+                android:textColor="@color/branco" />
+        </LinearLayout>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/azul_h"
+        android:layout_marginTop="-203dp"
+        android:orientation="vertical" >
+
+        <TextView
+            android:id="@+id/nomefant_apel"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_vertical"
+            android:textColor="@color/branco"
+            android:visibility="gone" />
+
+        <TextView
+            android:id="@+id/endereco_cli"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_vertical"
+            android:textColor="@color/branco"
+            android:textSize="14sp"
+            android:visibility="gone" />
+
+        <TextView
+            android:id="@+id/bairro_cli"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_vertical"
+            android:textColor="@color/branco"
+            android:textSize="14sp"
+            android:visibility="gone" />
+
+        <TextView
+            android:id="@+id/cidade_cli"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_vertical"
+            android:textColor="@color/branco"
+            android:textSize="14sp"
+            android:visibility="gone" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:padding="5dp" >
+
+        <TextView
+            android:id="@+id/textbloco"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="2"
+            android:text="Selecione o Bloco"
+            android:textSize="18sp"
+            android:visibility="gone" />
+
+        <Spinner
+            android:id="@+id/spBlocos"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="2"
+            android:visibility="gone" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:padding="5dp" >
+
+        <TextView
+            android:id="@+id/textunidade"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="2"
+            android:text="Digite sua unidade"
+            android:textSize="18sp"
+            android:visibility="gone" />
+
+        <AutoCompleteTextView
+            android:id="@+id/autoCompleteTextView"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="2"
+            android:visibility="gone" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="323dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:orientation="horizontal"
+        android:paddingLeft="10pt"
+        android:paddingRight="10pt" >
+
+        <Button
+            android:id="@+id/solicitar"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            style="@style/texto9"
+            android:background="@drawable/layoutbutton"
+            android:text="@string/lblbtn"
+            android:layout_marginTop="10dp"
+            android:onClick="solicitar"
+            android:textColor="@color/branco"
+            android:visibility="gone" />
+
+    </LinearLayout>
+
+</LinearLayout>

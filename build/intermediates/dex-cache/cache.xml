@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\robso\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\uploads\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_c895d24fa2e46d07e2a55738356afde6734d9384.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\robso\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-applinks\1.4.0\8ad21bf21784dacce5f2043afb97218cc377e835\bolts-applinks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8ad21bf21784dacce5f2043afb97218cc377e835">
+        <dex dex="C:\uploads\app\build\intermediates\pre-dexed\debug\bolts-applinks-1.4.0_cb65c5006caeac6bf9c5fe598c93c9d7c775fbf5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\robso\.android\build-cache\112db097975e4bb9615e0a7c855448fbc65bfed4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\uploads\app\build\intermediates\pre-dexed\debug\classes_cd4b33a64cfdbfcba9f183f61164c9d47cf43702.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\robso\.android\build-cache\c11500ef0e8f6dde7a9bd1994eb093373fca8262\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\uploads\app\build\intermediates\pre-dexed\debug\classes_2ba9527d560dd55c98b4529b1f1989a746fb1564.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\robso\.android\build-cache\e31f5e66fbf61680627db3b0a3d9a46b71524639\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0c3529d9491be892952749d252ae1defa9b1f937">
+        <dex dex="C:\uploads\app\build\intermediates\pre-dexed\debug\classes_c5a127231639ce1accf960a3288096787e592050.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\robso\.android\build-cache\f7a881101de7ac5e762e4b5583fc713f81793331\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="57487745ce450899f9f250d5ae5c092a682cd041">
+        <dex dex="C:\uploads\app\build\intermediates\pre-dexed\debug\classes_70c3509c6337f9269218df7a17ea6915ebcb3d9e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\robso\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\uploads\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_e86e7a36f1a4ab780c5a863226d0c9c456486f1a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\robso\.android\build-cache\1619b52da365560af33adc1e3c5392cf11a94767\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="807751a24cf96566fd8675517c94d8463cf364db">
+        <dex dex="C:\uploads\app\build\intermediates\pre-dexed\debug\classes_cb829e673040620bc9518ee68f8d32c07900517c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\robso\.android\build-cache\992b6180526ef829a416a9e0cb1c73a7fdd8e6a4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\uploads\app\build\intermediates\pre-dexed\debug\classes_81a5d6e35ad6258aedd831d365a23ace51657a5a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\robso\.android\build-cache\fdda8eca9b026e26731fe21e936bf8cb9ecfd72a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\uploads\app\build\intermediates\pre-dexed\debug\classes_5db5cffb1e077521e2ee93a7f3700227fd64aa08.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\uploads\app\libs\achartengine-0.7.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f51933deafdd1ffc8f3a2d7214260f124dd10af6">
+        <dex dex="C:\uploads\app\build\intermediates\pre-dexed\release\achartengine-0.7.0_f248870c91f92ed4bd77a71e95b334e5b9508433.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\robso\.android\build-cache\2df5bacb00a660d75b7f251d5ca85d649b7bf78f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\uploads\app\build\intermediates\pre-dexed\debug\classes_5dfa9416527ee8f2e491e535acfe37339d125d95.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\robso\.android\build-cache\1a2469c4d96d9cd379e9f18b1081a0c85821aa45\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\uploads\app\build\intermediates\pre-dexed\debug\classes_53ebfd8f2ff788e8e180a7db55835adf16e23fe9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\uploads\app\libs\additionnal.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bd9e8dc422bb8c8405359947fe9f4282b49f57f4">
+        <dex dex="C:\uploads\app\build\intermediates\pre-dexed\release\additionnal_4abf20d07684c0c096e818824e5abb4cb840309a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\robso\.gradle\caches\modules-2\files-2.1\com.google.zxing\core\3.3.0\73c49077166faa4c3c0059c5f583d1d7bd1475fe\core-3.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="73c49077166faa4c3c0059c5f583d1d7bd1475fe">
+        <dex dex="C:\uploads\app\build\intermediates\pre-dexed\debug\core-3.3.0_fdd020ef46a70126841d8561147f1c75b5366c1c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\robso\.android\build-cache\b13508c147cb66b2af6708477d177e4e87a16cda\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\uploads\app\build\intermediates\pre-dexed\debug\classes_d75883714063ae61911f17d018482422d5c474b0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\uploads\app\libs\mail.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="428e267abff0d10802ccde86b915da2c20471160">
+        <dex dex="C:\uploads\app\build\intermediates\pre-dexed\release\mail_5ffd3e7551e3fa0630ea32c2e839b8354aab2dcf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\robso\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="C:\uploads\app\build\intermediates\pre-dexed\debug\bolts-tasks-1.4.0_267fc78bed5dbf49ec1c46af6ddfe26bc63ef658.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\robso\.android\build-cache\195cb48af8eaf3504ad232f816ef9fa841347b54\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\uploads\app\build\intermediates\pre-dexed\debug\classes_75187a0883275a72719cd7a963baff1dbb22f8e3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\robso\.android\build-cache\ce311651d838aef6cdff4585820da7a43c426140\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e09663005d70dcedff0bb77211b9ac52d8b69421">
+        <dex dex="C:\uploads\app\build\intermediates\pre-dexed\debug\classes_b6f7afc5c6ad8f1f14faf8ae341e7494c292add4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\robso\.android\build-cache\a09efc3234da4efceb08f4e16dff935f6e4c3323\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\uploads\app\build\intermediates\pre-dexed\debug\classes_d6ccd871dc1d97490957cce5916b468ed6283017.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\uploads\app\libs\activation.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d1257cbff6faa44c1f325ae0d9413522d4644383">
+        <dex dex="C:\uploads\app\build\intermediates\pre-dexed\release\activation_ba7ad7f027ff7a1158a2d20a0843c0d21d17a776.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\robso\.android\build-cache\44dcd4112d641647983062c3d0b2af8b6539b8fb\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="914f5d3e3ace66080e59613708f06d129a222e25">
+        <dex dex="C:\uploads\app\build\intermediates\pre-dexed\debug\classes_8f201152bcacef805aec943b671c21b22c0a03da.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\robso\.android\build-cache\7b2c636489df601333c16a03301cfee0360e8d08\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\uploads\app\build\intermediates\pre-dexed\debug\classes_97798856f80eb8072af3d2989cb15b5328ab6772.jar" />
+    </item>
+
+</items>
