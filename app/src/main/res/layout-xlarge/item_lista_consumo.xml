@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal" >
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="0.34"
+        android:orientation="vertical" >
+
+        <TextView
+            android:id="@+id/lblHidrometro"
+            style="@style/texto7"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10sp"
+            android:text="@string/hidrometro"
+            android:textSize="15dp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/lblIndiceAtual"
+            style="@style/texto7"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10sp"
+            android:text="@string/indiceatual"
+            android:textSize="15dp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/lblIndiceAnterior"
+            style="@style/texto7"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10sp"
+            android:text="@string/indiceanterior"
+            android:textSize="15dp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/lblConsumo"
+            style="@style/texto7"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10sp"
+            android:text="@string/consumo"
+            android:textSize="15dp"
+            android:textStyle="bold" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+
+        <TextView
+            android:id="@+id/localizacao"
+            style="@style/texto7"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="02_PAV_02A05"
+            android:textSize="15dp" />
+
+        <TextView
+            android:id="@+id/indatual"
+            style="@style/texto7"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="1sp"
+            android:gravity="center"
+            android:text="999999"
+            android:textSize="15dp" />
+
+        <TextView
+            android:id="@+id/indantigo"
+            style="@style/texto7"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="1sp"
+            android:gravity="center"
+            android:text="999950"
+            android:textSize="15dp" />
+
+        <TextView
+            android:id="@+id/consumo"
+            style="@style/texto7"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="1sp"
+            android:gravity="center"
+            android:text="49"
+            android:textSize="15dp" />
+    </LinearLayout>
+
+</LinearLayout>
